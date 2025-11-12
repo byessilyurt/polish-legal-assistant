@@ -37,23 +37,15 @@ class RetrievalService:
         self.index = None
         self.openai_client = None
         self.query_preprocessor = get_query_preprocessor()
+        self._index_initialized = False
 
-        # Initialize Pinecone
+        # Initialize Pinecone client (but not the index yet - lazy init)
         if settings.pinecone_configured:
             try:
                 self.pinecone_client = Pinecone(api_key=settings.pinecone_api_key)
-
-                # Connect to existing index
-                if settings.pinecone_index_name in self.pinecone_client.list_indexes().names():
-                    self.index = self.pinecone_client.Index(settings.pinecone_index_name)
-                    logger.info(f"Connected to Pinecone index: {settings.pinecone_index_name}")
-                else:
-                    logger.warning(
-                        f"Pinecone index '{settings.pinecone_index_name}' not found. "
-                        "Please create the index first."
-                    )
+                logger.info("Pinecone client initialized")
             except Exception as e:
-                logger.error(f"Failed to initialize Pinecone: {str(e)}")
+                logger.error(f"Failed to initialize Pinecone client: {str(e)}")
         else:
             logger.warning("Pinecone not configured")
 
@@ -63,6 +55,27 @@ class RetrievalService:
             logger.info("OpenAI client initialized for embeddings")
         else:
             logger.warning("OpenAI not configured for embeddings")
+
+    def _ensure_index_connection(self):
+        """
+        Lazy initialization of Pinecone index connection.
+
+        This method connects to the Pinecone index on first use,
+        avoiding blocking network calls during service initialization.
+        """
+        if self._index_initialized:
+            return
+
+        if self.pinecone_client and settings.pinecone_configured:
+            try:
+                # Directly connect to the index without listing all indexes
+                # This is faster and works better in serverless environments
+                self.index = self.pinecone_client.Index(settings.pinecone_index_name)
+                self._index_initialized = True
+                logger.info(f"Connected to Pinecone index: {settings.pinecone_index_name}")
+            except Exception as e:
+                logger.error(f"Failed to connect to Pinecone index: {str(e)}")
+                raise
 
     @retry(
         retry=retry_if_exception_type(Exception),
@@ -131,6 +144,9 @@ class RetrievalService:
             ValueError: If Pinecone is not configured or index not found
             Exception: If retrieval fails
         """
+        # Ensure index is connected (lazy initialization)
+        self._ensure_index_connection()
+
         if not self.pinecone_client or not self.index:
             raise ValueError(
                 "Pinecone is not properly configured. "
@@ -312,11 +328,19 @@ class RetrievalService:
         Returns:
             True if both Pinecone and OpenAI are properly configured
         """
-        return (
-            self.pinecone_client is not None
-            and self.index is not None
-            and self.openai_client is not None
-        )
+        try:
+            # Attempt to connect to index if not already connected
+            if self.pinecone_client and not self._index_initialized:
+                self._ensure_index_connection()
+
+            return (
+                self.pinecone_client is not None
+                and self.index is not None
+                and self.openai_client is not None
+            )
+        except Exception as e:
+            logger.error(f"Availability check failed: {str(e)}")
+            return False
 
     async def get_index_stats(self) -> dict:
         """
@@ -328,6 +352,9 @@ class RetrievalService:
         Raises:
             ValueError: If Pinecone is not configured
         """
+        # Ensure index is connected (lazy initialization)
+        self._ensure_index_connection()
+
         if not self.index:
             raise ValueError("Pinecone index not available")
 
