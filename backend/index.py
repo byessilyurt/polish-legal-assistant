@@ -6,9 +6,9 @@ import sys
 import traceback
 
 try:
-    from app.main import app
-    # Vercel expects a variable named 'app' or a handler function
-    handler = app
+    from app.main import app as fastapi_app
+    # Vercel expects a variable named 'app'
+    app = fastapi_app
 except Exception as e:
     # Print detailed error for debugging
     print(f"ERROR loading app: {e}", file=sys.stderr)
