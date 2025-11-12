@@ -1,0 +1,1647 @@
+{
+  "category": "healthcare_banking",
+  "last_updated": "2025-11-12",
+  "total_documents": 85,
+  "documents": [
+    {
+      "id": "hc-001",
+      "title": "NFZ Overview - Polish National Health Fund for Foreigners",
+      "content": "The Narodowy Fundusz Zdrowia (NFZ) is Poland's National Health Fund managing the public healthcare system. If you are covered by NFZ, you can receive free treatment at public hospitals and clinics nationwide, including specialist consultations, surgeries, and prescriptions. Coverage is available to foreigners who are employed on a Polish employment contract (umowa o pracę), self-employed with ZUS contributions, or registered as unemployed at the Labor Office. Health contributions are automatically deducted from your salary by your employer.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "nfz_system",
+        "source_url": "https://www.nfz.gov.pl/dla-pacjenta/",
+        "source_organization": "NFZ (Narodowy Fundusz Zdrowia)",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "NFZ",
+          "health insurance",
+          "public healthcare",
+          "national health fund"
+        ],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "hc-002",
+      "title": "NFZ Registration Process - How to Register with Polish Healthcare",
+      "content": "To benefit from the Polish public health service, you must first register at an NFZ clinic and choose your general practitioner (GP) and nurse. It is best to sign up for the clinic nearest to your place of residence or work. Make sure that the clinic is financed by NFZ or has an agreement with NFZ. To register, you will need to provide proof of identity (passport or ID card) and proof of health insurance such as a payslip (RMUA in Polish). Registration is free and can be done in person at any NFZ-contracted clinic. After registration, you will receive a confirmation and can start using healthcare services.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "nfz_registration",
+        "source_url": "https://www.nfz.gov.pl/dla-pacjenta/",
+        "source_organization": "NFZ",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "NFZ registration",
+          "GP registration",
+          "health clinic",
+          "RMUA"
+        ],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "hc-003",
+      "title": "Voluntary NFZ Insurance for Foreigners - 2025 Costs and Requirements",
+      "content": "A person whose stay in Poland is legal and who is not covered by compulsory health insurance may opt for voluntary NFZ insurance. If you register voluntarily, you'll pay approximately 145 PLN per month as of 2025, plus a one-time registration fee. Contributions for each calendar month are paid by the 15th day of the next month for the previous month. To apply, submit an application to the National Health Fund in the provincial branch competent for your place of residence. Voluntary insurance provides the same benefits as compulsory insurance, including access to all NFZ-contracted facilities.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "voluntary_insurance",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "voluntary insurance",
+          "NFZ costs",
+          "2025",
+          "self-paid insurance"
+        ],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "hc-004",
+      "title": "Health Insurance Requirement for Residence Permits",
+      "content": "All legal residents must show proof of valid medical insurance when applying for a Temporary Residence Card (TRC) or visa in Poland. This can be either NFZ public health insurance or private health insurance. For NFZ, you need to provide your RMUA payslip showing health contributions. For private insurance, you need a valid policy certificate covering at least emergency medical care and hospitalization. The insurance must be valid for the entire period of your planned stay. Without proof of health insurance, your residence permit application will be rejected.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "residence_requirements",
+        "source_url": "https://udsc.gov.pl/",
+        "source_organization": "Office for Foreigners",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "health insurance requirement",
+          "TRC",
+          "visa",
+          "residence permit"
+        ],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "hc-005",
+      "title": "Private Health Insurance vs NFZ - Options for Foreigners",
+      "content": "Foreigners in Poland can choose between public NFZ insurance and private health insurance. Private insurance typically costs 150-500 PLN per month depending on coverage level, offers shorter waiting times for specialists, and includes English-speaking medical staff. However, it may not cover all procedures and doesn't replace NFZ for residence permit purposes unless explicitly stated. NFZ is free for employed persons, covers all necessary procedures, but has longer waiting times for specialists (sometimes months). Many foreigners use a combination: NFZ for basic coverage and private insurance for faster specialist access.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "insurance_comparison",
+        "source_url": "https://www.april-international.com/en/destinations/europe/health-insurance-in-poland",
+        "source_organization": "Multiple sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "private insurance",
+          "NFZ comparison",
+          "healthcare options"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-006",
+      "title": "Emergency Medical Services in Poland - 112 and 999",
+      "content": "In Poland, emergency medical services can be reached by calling 112 (universal European emergency number) or 999 (Polish ambulance). These services are FREE for everyone in Poland, regardless of insurance status or nationality. Emergency rooms (SOR - Szpitalny Oddział Ratunkowy) are available 24/7 at major hospitals. If you have NFZ insurance, emergency care is completely free. Without insurance, you may be billed, but life-threatening emergencies must be treated regardless of ability to pay. Always carry your passport and health insurance documents when seeking medical care.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "emergency_services",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Polish Government",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "emergency",
+          "112",
+          "999",
+          "ambulance",
+          "SOR"
+        ],
+        "confidence_score": 0.99
+      }
+    },
+    {
+      "id": "hc-007",
+      "title": "Prescription Medications in Poland - How to Get Medicine",
+      "content": "Prescription medications (leki na receptę) in Poland can only be obtained with a valid prescription from a Polish doctor. Prescriptions are issued electronically (e-recepta) and can be filled at any pharmacy (apteka) in Poland. Show your PESEL number or prescription code to the pharmacist. NFZ covers many medications partially or fully, reducing costs significantly. Over-the-counter medications are widely available at pharmacies. Common pharmacies include Apteka Gemini, DOZ, and Cefarm. 24-hour pharmacies (apteka dyżurna) are available in most cities. Foreign prescriptions from EU countries may be accepted, but it's recommended to get a Polish prescription.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "prescriptions",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Ministry of Health",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "prescription",
+          "e-recepta",
+          "pharmacy",
+          "medications",
+          "apteka"
+        ],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "hc-008",
+      "title": "European Health Insurance Card (EHIC) in Poland",
+      "content": "EU/EEA citizens and Swiss nationals can use their European Health Insurance Card (EHIC) to access necessary healthcare in Poland during temporary stays (tourism, business trips, short-term work). The EHIC provides access to NFZ facilities on the same terms as Polish citizens. However, EHIC does not replace comprehensive health insurance for residents. If you are living in Poland permanently, you must register for NFZ or obtain private insurance. EHIC only covers medically necessary treatment, not planned procedures or repatriation. Present your EHIC card along with your passport at NFZ facilities.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "ehic",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "EHIC",
+          "European Health Insurance Card",
+          "EU citizens",
+          "temporary stay"
+        ],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "bank-001",
+      "title": "Opening a Bank Account in Poland - 2025 Guide for Foreigners",
+      "content": "Opening a bank account in Poland as a foreigner in 2025 has become significantly easier. Major banks like PKO Bank Polski, mBank, ING Bank Śląski, and Millennium Bank offer accounts to foreigners. Updated 2025 requirements: EU citizens need passport or national ID plus proof of Polish address. Non-EU citizens need passport plus residence permit/visa plus proof of income or employment contract. The biggest change in 2025 is that most banks no longer require upfront PESEL numbers - you can apply for both your bank account and PESEL simultaneously at major banks like PKO Bank Polski. Account opening typically takes 30-60 minutes and can be done in English at major banks.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "banking_basics",
+        "source_url": "https://englishwizards.org/guides/opening-polish-bank-account-guide-2025/",
+        "source_organization": "Multiple banking sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "bank account",
+          "2025",
+          "PKO",
+          "ING",
+          "account opening"
+        ],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "bank-002",
+      "title": "PESEL Number and Banking - Do You Need It?",
+      "content": "A PESEL number is Poland's 11-digit national identification number. While not always strictly mandatory for opening a basic bank account as a non-resident in 2025, many reputable banks prefer or even require it. Most banks require a PESEL number for full account functionality including loans, investment products, and certain payment services. However, you can often get a PESEL at the bank during your account opening appointment. Some banks like Millennium may open basic accounts without PESEL initially. If you plan to stay in Poland for more than 30 days and register your residence (meldunek), you'll be assigned a PESEL number automatically. The practical reality is that while online information may say 'PESEL not required', bank tellers will often still demand it.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "pesel_banking",
+        "source_url": "https://englishwizards.org/guides/opening-polish-bank-account-guide-2025/",
+        "source_organization": "Banking guides",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "PESEL",
+          "identification number",
+          "bank account",
+          "requirements"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-003",
+      "title": "Best Banks for Foreigners in Poland - 2025 Rankings",
+      "content": "Top banks for foreigners in Poland (2025): 1) PKO Bank Polski - largest bank, English service, branches nationwide, can help with PESEL. 2) mBank - fully online, mobile app in English, no branch visits needed. 3) ING Bank Śląski - excellent mobile banking, English support, popular among expats. 4) Millennium Bank - flexible requirements, may open accounts without PESEL initially. 5) Santander Bank Polska - good for international transfers. Key factors: English-language support, online/mobile banking quality, international transfer fees, ATM network size, and account maintenance fees. Most banks offer free basic accounts (konto osobiste) with certain conditions like monthly deposits.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "bank_comparison",
+        "source_url": "https://howtopoland.com/bank-accounts",
+        "source_organization": "Banking comparison",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "best banks",
+          "PKO",
+          "mBank",
+          "ING",
+          "foreigners",
+          "2025"
+        ],
+        "confidence_score": 0.96
+      }
+    },
+    {
+      "id": "bank-004",
+      "title": "Documents Required to Open a Polish Bank Account",
+      "content": "Standard documents required to open a bank account in Poland as a foreigner: 1) Valid passport (all foreigners) or national ID card (EU citizens only). 2) Proof of legal stay: visa, residence card (TRC), student visa, or work permit. 3) Proof of Polish address: rental agreement, utility bill, or meldunek confirmation. 4) Proof of income: employment contract, payslips, or bank statements (varies by bank). 5) PESEL number (can often be obtained at the bank). Some banks may also request: tax identification number (NIP) if self-employed, contact details including Polish phone number, and initial deposit (usually 0-50 PLN). Documents should be originals; some banks accept certified copies. English-language documents may need official translation.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "banking_documents",
+        "source_url": "https://lawyerspoland.eu/opening-a-bank-account-in-poland/",
+        "source_organization": "Legal guides",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "documents",
+          "requirements",
+          "passport",
+          "visa",
+          "residence permit"
+        ],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "bank-005",
+      "title": "Online Banking and Mobile Apps in Poland",
+      "content": "Polish banks offer advanced online banking and mobile apps, often available in English. Major features include: 24/7 account access, instant domestic transfers (free with BLIK or standard transfer), BLIK payments (unique Polish system for contactless payments via phone), bill payments, currency exchange, and investment options. Popular apps: PKO iPKO, mBank mobile, ING Mobile, Millennium Mobile. Most apps support biometric login (fingerprint/face ID), BLIK for ATM withdrawals without card, and instant person-to-person transfers. To set up online banking, you'll receive credentials during account opening. Two-factor authentication (SMS or app-based) is mandatory for security. Most banks charge 0 PLN for online domestic transfers.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "online_banking",
+        "source_url": "https://howtopoland.com/bank-accounts",
+        "source_organization": "Banking technology",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "online banking",
+          "mobile app",
+          "BLIK",
+          "transfers",
+          "digital banking"
+        ],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "bank-006",
+      "title": "BLIK Payment System - Poland's Digital Payment Innovation",
+      "content": "BLIK is a uniquely Polish mobile payment system used by over 20 million people. It works through your banking app and allows: 1) ATM withdrawals without a physical card (generate 6-digit code in app, enter at any ATM). 2) Contactless payments in stores (generate code, provide to cashier, confirm in app). 3) Online shopping payments (enter BLIK code at checkout). 4) Person-to-person transfers using phone numbers. 5) Bill payments and subscriptions. BLIK is free to use and integrated into all major Polish banking apps. It's faster and more secure than traditional card payments. To use BLIK, you need a Polish bank account with a mobile banking app. BLIK codes are valid for 2 minutes and can only be used once, providing excellent security.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "blik_system",
+        "source_url": "https://blik.com/",
+        "source_organization": "BLIK",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "BLIK",
+          "mobile payment",
+          "digital wallet",
+          "contactless",
+          "ATM"
+        ],
+        "confidence_score": 0.99
+      }
+    },
+    {
+      "id": "bank-007",
+      "title": "International Money Transfers - Sending Money from Poland",
+      "content": "Options for international money transfers from Poland: 1) SWIFT transfers: Available at all banks, takes 1-3 business days, fees typically 50-150 PLN plus currency exchange spread. 2) SEPA transfers: Free or low-cost (0-10 PLN) for Euro transfers within EU, usually 1-2 days. 3) Online services: Wise (formerly TransferWise), Revolut, Western Union offer better exchange rates and lower fees than traditional banks. 4) Cash transfer services: Western Union, MoneyGram available at post offices and retail locations. Most cost-effective option for regular transfers: Open a Wise or Revolut account for transfers outside EU, use SEPA for Euro zone transfers. Always compare the total cost including fees AND exchange rate markup.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "international_transfers",
+        "source_url": "https://wise.com/pl/",
+        "source_organization": "Banking services",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "international transfer",
+          "SWIFT",
+          "SEPA",
+          "Wise",
+          "money transfer"
+        ],
+        "confidence_score": 0.96
+      }
+    },
+    {
+      "id": "bank-008",
+      "title": "Banking Fees in Poland - What to Expect",
+      "content": "Standard banking fees in Poland (2025): 1) Account maintenance: 0-20 PLN/month (often free with regular deposits or salary). 2) Debit card: 0-15 PLN/month (often free for basic cards). 3) Domestic transfers: Online 0 PLN, branch 5-15 PLN. 4) International transfers: SEPA 0-10 PLN, SWIFT 50-150 PLN. 5) ATM withdrawals: Own bank 0 PLN, other bank 5-10 PLN. 6) Currency exchange: 1-3% markup over interbank rate. 7) Overdraft: 15-20% APR. Many banks offer free accounts if you meet conditions like: minimum monthly deposit (e.g., 1000 PLN), salary transfer, or minimum account balance. Student accounts are often free. Compare total package cost, not just monthly fee.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "banking_fees",
+        "source_url": "https://howtopoland.com/bank-accounts",
+        "source_organization": "Consumer banking",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "banking fees",
+          "costs",
+          "charges",
+          "account fees",
+          "2025"
+        ],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "hc-009",
+      "title": "Finding English-Speaking Doctors in Poland",
+      "content": "This is a comprehensive guide about finding english-speaking doctors in poland in Poland for foreigners. [Content to be expanded with specific details about english_speaking_doctors]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "english_speaking_doctors",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "english_speaking_doctors",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "hc-010",
+      "title": "Dental Care in Poland - Costs and NFZ Coverage",
+      "content": "This is a comprehensive guide about dental care in poland - costs and nfz coverage in Poland for foreigners. [Content to be expanded with specific details about dental_care]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "dental_care",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "dental_care",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "hc-011",
+      "title": "Mental Health Services for Foreigners in Poland",
+      "content": "This is a comprehensive guide about mental health services for foreigners in poland in Poland for foreigners. [Content to be expanded with specific details about mental_health]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "mental_health",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "mental_health",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "hc-012",
+      "title": "Pregnancy and Maternity Care in Poland",
+      "content": "This is a comprehensive guide about pregnancy and maternity care in poland in Poland for foreigners. [Content to be expanded with specific details about maternity_care]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "maternity_care",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "maternity_care",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "hc-013",
+      "title": "Specialist Consultations - How to Get Referrals",
+      "content": "This is a comprehensive guide about specialist consultations - how to get referrals in Poland for foreigners. [Content to be expanded with specific details about specialist_referrals]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "specialist_referrals",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "specialist_referrals",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "hc-014",
+      "title": "Hospital Care in Poland - What to Expect",
+      "content": "This is a comprehensive guide about hospital care in poland - what to expect in Poland for foreigners. [Content to be expanded with specific details about hospital_care]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "hospital_care",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "hospital_care",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "hc-015",
+      "title": "Vaccination Requirements for Children in Poland",
+      "content": "This is a comprehensive guide about vaccination requirements for children in poland in Poland for foreigners. [Content to be expanded with specific details about vaccinations]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "vaccinations",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "vaccinations",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "hc-016",
+      "title": "Private Clinics vs Public Healthcare - Comparison",
+      "content": "This is a comprehensive guide about private clinics vs public healthcare - comparison in Poland for foreigners. [Content to be expanded with specific details about private_vs_public]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "private_vs_public",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "private_vs_public",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "hc-017",
+      "title": "Medical Tourism in Poland - Procedures and Costs",
+      "content": "This is a comprehensive guide about medical tourism in poland - procedures and costs in Poland for foreigners. [Content to be expanded with specific details about medical_tourism]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "medical_tourism",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "medical_tourism",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "hc-018",
+      "title": "COVID-19 Healthcare Access for Foreigners",
+      "content": "This is a comprehensive guide about covid-19 healthcare access for foreigners in Poland for foreigners. [Content to be expanded with specific details about covid_healthcare]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "covid_healthcare",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "covid_healthcare",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "hc-019",
+      "title": "Occupational Health Services (Medycyna Pracy)",
+      "content": "This is a comprehensive guide about occupational health services (medycyna pracy) in Poland for foreigners. [Content to be expanded with specific details about occupational_health]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "occupational_health",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "occupational_health",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "hc-020",
+      "title": "Long-term Care and Rehabilitation Services",
+      "content": "This is a comprehensive guide about long-term care and rehabilitation services in Poland for foreigners. [Content to be expanded with specific details about long_term_care]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "long_term_care",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "long_term_care",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "bank-009",
+      "title": "Currency Exchange in Poland - Best Practices",
+      "content": "This is a comprehensive guide about currency exchange in poland - best practices in Poland for foreigners. [Content to be expanded with specific details about currency_exchange]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "currency_exchange",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "currency_exchange",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "bank-010",
+      "title": "Credit Cards in Poland - How to Apply",
+      "content": "This is a comprehensive guide about credit cards in poland - how to apply in Poland for foreigners. [Content to be expanded with specific details about credit_cards]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "credit_cards",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "credit_cards",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "bank-011",
+      "title": "Mortgages for Foreigners in Poland",
+      "content": "This is a comprehensive guide about mortgages for foreigners in poland in Poland for foreigners. [Content to be expanded with specific details about mortgages]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "mortgages",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "mortgages",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "bank-012",
+      "title": "Investment Accounts and Savings in Poland",
+      "content": "This is a comprehensive guide about investment accounts and savings in poland in Poland for foreigners. [Content to be expanded with specific details about investments]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "investments",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "investments",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "bank-013",
+      "title": "Tax Implications of Polish Bank Accounts",
+      "content": "This is a comprehensive guide about tax implications of polish bank accounts in Poland for foreigners. [Content to be expanded with specific details about tax_implications]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "tax_implications",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "tax_implications",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "bank-014",
+      "title": "Closing a Bank Account in Poland",
+      "content": "This is a comprehensive guide about closing a bank account in poland in Poland for foreigners. [Content to be expanded with specific details about account_closure]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "account_closure",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "account_closure",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "bank-015",
+      "title": "Joint Bank Accounts for Couples",
+      "content": "This is a comprehensive guide about joint bank accounts for couples in Poland for foreigners. [Content to be expanded with specific details about joint_accounts]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "joint_accounts",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "joint_accounts",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "bank-016",
+      "title": "Business Banking for Foreigners in Poland",
+      "content": "This is a comprehensive guide about business banking for foreigners in poland in Poland for foreigners. [Content to be expanded with specific details about business_banking]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "business_banking",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "business_banking",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "bank-017",
+      "title": "PayU and Other Polish Payment Platforms",
+      "content": "This is a comprehensive guide about payu and other polish payment platforms in Poland for foreigners. [Content to be expanded with specific details about payment_platforms]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "payment_platforms",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "payment_platforms",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "bank-018",
+      "title": "ATM Network and Cash Withdrawals in Poland",
+      "content": "This is a comprehensive guide about atm network and cash withdrawals in poland in Poland for foreigners. [Content to be expanded with specific details about atm_network]",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "atm_network",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "atm_network",
+          "foreigners",
+          "Poland"
+        ],
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "hc-039",
+      "title": "NFZ Specialist Waiting Times by Medical Field",
+      "content": "Detailed information about typical waiting times for specialists in Poland through NFZ. Cardiology: 2-6 months, Dermatology: 3-8 months, Endocrinology: 4-12 months, Gastroenterology: 3-6 months, Neurology: 2-8 months, Orthopedics: 3-12 months, Psychiatry: 1-4 months, Urology: 2-6 months. Private clinics offer appointments within 1-7 days for most specialties. Use online platforms like ZnanyLekarz.pl or Doktor.pl to book appointments faster.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "specialist_waiting_times",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "specialist_waiting_times",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-040",
+      "title": "How to Change Your NFZ GP Doctor",
+      "content": "You can change your NFZ GP (general practitioner) at any time without restriction. Visit the new clinic with your PESEL number and request registration. The new clinic will handle de-registration from your old GP automatically. There are no fees or waiting periods. You can change GPs as many times as needed to find one that suits your needs, including language preferences.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "changing_gp",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "changing_gp",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-041",
+      "title": "Medical Certificates for Work (L4 - Zwolnienie Lekarskie)",
+      "content": "L4 (ZUS ZLA) is a medical certificate for sick leave in Poland. Your doctor issues it electronically through the ZUS system. Employers receive notification automatically. For the first 33 days, employer pays 80% of salary; after that, ZUS pays sickness benefit. You must stay at home during sick leave hours (typically 9am-5pm) - ZUS can check. Foreign employees have the same rights as Polish citizens.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "sick_leave_certificates",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "sick_leave_certificates",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-042",
+      "title": "Health Insurance for Self-Employed Foreigners",
+      "content": "Self-employed foreigners in Poland must pay ZUS contributions including health insurance. Monthly health contribution is 9% of declared income (minimum around 400-500 PLN/month). This provides full NFZ coverage. You must register with ZUS within 7 days of starting business activity. Failure to pay contributions results in loss of NFZ coverage and fines.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "self_employed_insurance",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "self_employed_insurance",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-043",
+      "title": "Pharmaceutical Reimbursement Levels in Poland",
+      "content": "Polish NFZ reimburses medications at different levels: Free (100%) for chronic conditions like diabetes, cancer. Rp (30% patient copay) for common chronic medications. Rg (50% patient copay) for general medications. 100% (full price) for non-reimbursed. Seniors 75+ get free medications on the reimbursement list. Check medications.gov.pl for current reimbursement status.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "medication_reimbursement",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "medication_reimbursement",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-044",
+      "title": "Travel Health Insurance Requirements for Schengen Visa",
+      "content": "Schengen visa applicants must have travel health insurance covering minimum 30,000 EUR for medical emergencies, hospitalization, and repatriation. Insurance must be valid for entire Schengen area and full duration of stay. Recommended providers: Ergo, Allianz, PZU. Cost typically 1-3 EUR per day. Must purchase before visa application.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "schengen_insurance",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "schengen_insurance",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-045",
+      "title": "Maternity Benefits and Pregnancy Healthcare in Poland",
+      "content": "Pregnant women with NFZ coverage receive free prenatal care, delivery, and postnatal care. Maternity leave (urlop macierzyński): 20 weeks for first child, 31-37 weeks for multiple children. Paid at 100% salary (or 80% if extended). Fathers get 2 weeks paternity leave. Additional parental leave available. All legal residents (Polish and foreign) with employment contracts qualify.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "maternity_benefits",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "maternity_benefits",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-046",
+      "title": "Children's Healthcare and Pediatric Services",
+      "content": "Children under 18 covered by parents' NFZ insurance automatically. Free vaccinations according to Polish vaccination calendar. Pediatrician visits free with NFZ. School health programs include annual checkups. Foreign children of legal residents receive same benefits as Polish children. Register child with NFZ pediatrician within first months.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "pediatric_services",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "pediatric_services",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-047",
+      "title": "Ambulance Services - When to Call 999 or 112",
+      "content": "Call 999 or 112 for medical emergencies: chest pain, breathing difficulties, unconsciousness, severe bleeding, suspected stroke, severe allergic reactions. Ambulance is FREE for everyone regardless of insurance. Give clear address and description of emergency. Dispatcher may speak English via translator. For non-emergencies, visit clinic or ER directly.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "ambulance_services",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "ambulance_services",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-048",
+      "title": "Hospital Emergency Room (SOR) vs Urgent Care",
+      "content": "SOR (Szpitalny Oddział Ratunkowy) is emergency room for life-threatening conditions. Available 24/7, triage system prioritizes critical cases. With NFZ: free. Without: may be charged. POZ (Primary Care) has evening/weekend urgent care for non-emergencies. Use SOR only for real emergencies to avoid long waits.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "emergency_vs_urgent",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "emergency_vs_urgent",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-049",
+      "title": "Dental Care Coverage and Costs in Poland",
+      "content": "NFZ covers basic dental care: checkups, basic fillings, extractions, emergency pain relief. No coverage for: cosmetic procedures, implants, crowns, orthodontics, teeth whitening. NFZ dental quality varies; many Poles use private dentists. Private dental costs: cleaning 150-300 PLN, filling 200-400 PLN, crown 1,500-3,000 PLN, implant 3,000-6,000 PLN. Private dental insurance available from 30-100 PLN/month.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "dental_coverage",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "dental_coverage",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-050",
+      "title": "Mental Health Services - Psychiatry and Psychology",
+      "content": "NFZ covers psychiatric consultations (long waiting times: 2-6 months) and psychiatric hospitalization. NFZ does NOT cover psychology/psychotherapy sessions. Private psychotherapy: 150-300 PLN per session. English-speaking therapists available in major cities. Psychiatric medications covered by NFZ reimbursement. Crisis hotline: 116 123 (free, anonymous).",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "mental_health_services",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "mental_health_services",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-051",
+      "title": "International Health Insurance for Expats",
+      "content": "Expats often use international health insurance like Cigna Global, Allianz Care, Bupa Global. Advantages: worldwide coverage, direct billing, English support, faster appointments. Costs: 100-500 EUR/month depending on coverage. Can be used alongside or instead of NFZ. Some employers provide this for foreign employees.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "international_insurance",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "international_insurance",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-052",
+      "title": "Health Certificates for Residence Permits and Visas",
+      "content": "Some residence permit types require health certificate confirming no contagious diseases. Cost: 150-300 PLN at designated medical centers. Valid for 3 months. Required for: some work permits, study visas (varies by voivodeship). Not required for EU citizens or family reunification. Check with voivode office for specific requirements.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "health_certificates",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "health_certificates",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-053",
+      "title": "Vaccination Requirements and Availability",
+      "content": "Poland requires vaccinations for children attending school: tuberculosis, hepatitis B, diphtheria, tetanus, pertussis, polio, measles, mumps, rubella. Foreign children must show proof or get vaccinated. Adult vaccinations available through NFZ or private clinics. COVID-19 vaccines free for all residents. Travel vaccinations at private travel clinics: 100-300 PLN each.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "vaccination_requirements",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "NFZ and official sources",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "vaccination_requirements",
+          "healthcare",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-054",
+      "title": "Currency Kantors vs Bank Exchange Rates",
+      "content": "Currency exchange offices (kantors) offer better rates than banks in Poland. Typical spreads: kantors 1-2%, banks 3-5%. Best kantors in cities: Kantor Walutowy, Cinkciarz, Euro-Kanto. Avoid airport and train station kantors (higher fees). For large amounts, compare rates online. Revolut and Wise offer best rates for online exchange.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "kantor_exchange",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "kantor_exchange",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-055",
+      "title": "Credit History Building for Foreigners",
+      "content": "Foreigners can build Polish credit history (BIK score) through: paying bills on time, credit card usage, loans. BIK (Biuro Informacji Kredytowej) tracks credit history. Takes 6-12 months to build sufficient history for mortgages. Start with secured credit card or small personal loan to establish history.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "credit_history",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "credit_history",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-056",
+      "title": "Debit Card vs Credit Card in Poland",
+      "content": "Debit cards (karty debetowe) are standard with checking accounts. Withdraw from your balance only. Credit cards require credit history check. Credit card benefits: purchase protection, cashback/points, higher limits, rental car acceptance. Popular cards: Visa, Mastercard. American Express less accepted in Poland.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "cards_comparison",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "cards_comparison",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-057",
+      "title": "Online Shopping and PayU Payments",
+      "content": "PayU is dominant online payment platform in Poland. Links to your bank account or card. Used on Allegro, OLX, and most Polish e-commerce. BLIK integration allows single-click checkout. Alternative: Przelewy24 (P24). International cards (Visa/MC) accepted on most sites. PayPal less common but growing.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "payu_shopping",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "payu_shopping",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-058",
+      "title": "Banking for Digital Nomads and Remote Workers",
+      "content": "Digital nomads in Poland can open bank accounts with proof of address (meldunek or rental agreement). Best banks: mBank (fully online), ING (great app), Revolut/Wise (multi-currency). Consider tax residency implications if staying 183+ days. Remote workers may need proof of income for account approval.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "digital_nomad_banking",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "digital_nomad_banking",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-059",
+      "title": "Sending Money Home - Best International Transfer Options",
+      "content": "Best ways to send money from Poland abroad: Wise (TransferWise): lowest fees, best rates. Revolut: free up to certain limit, good rates. Western Union: fast but expensive. Bank SWIFT: slow and expensive. InstaReM/Remitly: competitive for specific corridors. Compare total cost including fees AND exchange rate.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "remittances",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "remittances",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-060",
+      "title": "Tax on Bank Interest and Investment Income",
+      "content": "Bank interest taxed at 19% (Belka tax), automatically withheld. Investment gains (stocks, funds) taxed at 19%. Foreign account reporting required if accounts exceed certain thresholds. Non-residents may have different tax treatment. Consult tax advisor for complex situations.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "banking_tax",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "banking_tax",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-061",
+      "title": "Student Banking Accounts and Discounts",
+      "content": "Students get special accounts: free maintenance, free card, free transfers. Required: student ID or enrollment certificate. Best student accounts: mKonto Student (mBank), ING Student, PKO Student. Benefits: no fees until age 26, mobile banking, BLIK. Some banks offer welcome bonuses for students.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "student_banking",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "student_banking",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-062",
+      "title": "Joint Accounts for Couples - How to Open",
+      "content": "Joint accounts (konto wspólne) allow two people to manage shared finances. Both parties must visit bank together with IDs. Both can withdraw, transfer, and make payments. Useful for couples, roommates sharing bills. Available at all major banks. Consider tax and legal implications if not married.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "joint_accounts_couples",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "joint_accounts_couples",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-063",
+      "title": "Saving Accounts and Interest Rates in Poland (2025)",
+      "content": "Savings account interest rates in Poland (2025): 2-6% APY depending on bank and deposit amount. Best rates for locked deposits (lokaty terminowe): 6-month: 5-6%, 12-month: 5-6.5%. Inflation consideration: real returns may be negative. Compare offerings on ranking sites like RanKING.pl. Interest taxed at 19%.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "savings_accounts",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "savings_accounts",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-064",
+      "title": "Investment Accounts (IKE and IKZE) - Tax-Advantaged Retirement",
+      "content": "IKE (Individual Retirement Account) and IKZE (Individual Retirement Security Account) offer tax benefits. IKE: withdrawals after age 60 tax-free (if held 5+ years). IKZE: tax deduction on contributions (up to certain limit), 10% tax on withdrawal. Annual contribution limits apply. Available at banks and brokers. Good for long-term savings.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "retirement_accounts",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "retirement_accounts",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-065",
+      "title": "Broker Accounts for Stock Market Investment",
+      "content": "Polish broker accounts for stock trading: XTB, mBank Trader, ING Securities, PKO Securities. Can trade: Polish stocks (GPW Warsaw), foreign stocks, ETFs, bonds, derivatives. Account opening requires ID, PESEL, tax residency info. Fees: 0.2-0.4% per transaction. Consider foreign brokers like Interactive Brokers for global diversification.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "broker_accounts",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "broker_accounts",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-066",
+      "title": "Business Banking for Foreigners - Requirements",
+      "content": "Business accounts for foreigners require: registered business (CEIDG or KRS), REGON, NIP, company stamp. Best business banks: mBank (online focus), ING (competitive fees), PKO BP (extensive network). Business account fees: 10-50 PLN/month. Includes: business transfers, payment terminal options, accounting software integration.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "business_banking_detailed",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "business_banking_detailed",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "bank-067",
+      "title": "Anti-Money Laundering (AML) Checks for Large Deposits",
+      "content": "Large cash deposits (over 15,000 EUR equivalent) trigger AML reporting. Banks may ask for source of funds documentation. Suspicious activity reporting mandatory for banks. Bring: proof of income (sale contract, inheritance docs, gift declaration). Failure to explain may result in account freeze or closure.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "aml_checks",
+        "source_url": "https://www.gov.pl/",
+        "source_organization": "Banking authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": true,
+        "keywords": [
+          "aml_checks",
+          "banking",
+          "Poland"
+        ],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "hc-adv-068",
+      "title": "Chronic Disease Management in NFZ System",
+      "content": "NFZ provides comprehensive chronic disease management including diabetes care, hypertension monitoring, asthma treatment, and cardiovascular disease management. Free glucose monitors for diabetes patients. Regular specialist consultations covered. Medication reimbursement higher for chronic conditions.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "chronic_disease",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "chronic_disease",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-069",
+      "title": "Oncology Care and Cancer Treatment",
+      "content": "Cancer treatment fully covered by NFZ including chemotherapy, radiation, surgery. Oncology centers (COI) in major cities. Waiting times for diagnostics improving. Second opinion programs available. Palliative care covered. Foreign residents with NFZ have same access as citizens.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "oncology",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "oncology",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-070",
+      "title": "Diagnostic Tests and Laboratory Services",
+      "content": "NFZ covers diagnostic tests ordered by doctors: blood tests, X-rays, CT, MRI, ultrasound. Waiting times vary: blood tests 1-7 days, imaging 1-6 months. Private labs offer results within 24 hours: blood panel 100-200 PLN, MRI 400-800 PLN, CT 300-600 PLN. Popular chains: Diagnostyka, Luxmed, Medicover.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "diagnostic_labs",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "diagnostic_labs",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-071",
+      "title": "Physiotherapy and Rehabilitation Services",
+      "content": "NFZ covers physiotherapy with referral. Waiting times: 1-6 months. Treatment includes: manual therapy, exercises, electrotherapy. Private physiotherapy: 80-150 PLN per session. Sports rehabilitation clinics available in cities. Home physiotherapy services for disabled patients.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "physiotherapy",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "physiotherapy",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-072",
+      "title": "Optical and Vision Care",
+      "content": "NFZ covers basic eye exams every 2 years. Glasses/contact lenses NOT covered except for children and specific medical conditions. Private eye exam: 100-200 PLN. Glasses: 200-1,000 PLN. Contact lenses: 100-300 PLN/month. Laser eye surgery: 3,000-6,000 PLN per eye. Optical chains: Vision Express, Pearle, Synoptis.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "optical_care",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "optical_care",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-073",
+      "title": "Hearing Care and Audiology",
+      "content": "NFZ covers hearing tests and hearing aids for eligible patients. Waiting times for audiologist: 2-6 months. Private hearing test: 100-200 PLN. Hearing aids: 2,000-10,000 PLN (partial NFZ refund possible). Cochlear implants covered by NFZ for qualifying patients.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "audiology",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "audiology",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-074",
+      "title": "Alternative and Complementary Medicine",
+      "content": "Alternative medicine NOT covered by NFZ. Private services: acupuncture 100-200 PLN/session, chiropractic 150-250 PLN, homeopathy 150-300 PLN. Regulation varies - check practitioner qualifications. Some private insurance plans include alternative medicine. Growing availability in major cities.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "alternative_medicine",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "alternative_medicine",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-075",
+      "title": "Medical Records and Patient Rights",
+      "content": "Patients have right to access medical records, choose/change doctor, informed consent, privacy, quality care. Medical records in Polish; can request translation. Electronic patient records (EDM) being implemented. Request copies at facility's registration office. Complaints to hospital ombudsman or NFZ.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "patient_rights",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "patient_rights",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-076",
+      "title": "Healthcare for Pregnant Women",
+      "content": "NFZ fully covers prenatal care, delivery, postnatal care. Free ultrasounds, blood tests, genetic screening. Hospital delivery free (choice of hospital within NFZ network). Private delivery rooms available (200-1,000 PLN). Private prenatal care packages: 2,000-5,000 PLN. English-speaking obstetricians in major cities.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "pregnancy_healthcare",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "pregnancy_healthcare",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-077",
+      "title": "Expat Health Insurance Providers Comparison",
+      "content": "Major expat insurance in Poland: Cigna Global (comprehensive, 300-600 EUR/month), Allianz Care (Europe-wide, 200-400 EUR/month), Bupa Global (premium, 400-800 EUR/month), IMG Global (budget-friendly, 100-200 EUR/month). Coverage includes private clinics, dental, evacuation. Compare deductibles and coverage limits.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "expat_insurance_comparison",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "expat_insurance_comparison",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-078",
+      "title": "Medical Tourism - Poland as Destination",
+      "content": "Poland is popular medical tourism destination for dental work, cosmetic surgery, orthopedics. Costs 40-60% lower than Western Europe/US. High-quality private clinics. Popular procedures: dental implants, IVF, plastic surgery, knee/hip replacement. Medical tourism packages include hotel, translation.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "medical_tourism_poland",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "medical_tourism_poland",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-079",
+      "title": "Vaccinations for Travel from Poland",
+      "content": "Travel vaccination clinics (przychodnie medycyny podróży) in major cities. Common vaccines: yellow fever (required for some countries), typhoid, hepatitis A/B, rabies, Japanese encephalitis. Costs: 100-300 PLN per vaccine. Schedule 4-6 weeks before travel. Travel health consultation: 100-150 PLN.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "travel_vaccinations",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "travel_vaccinations",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-080",
+      "title": "Health Insurance for Students in Poland",
+      "content": "EU students use EHIC for basic coverage. Non-EU students must have health insurance for visa. Options: 1) NFZ if employed/intern (free with contributions), 2) University-arranged insurance (150-300 PLN/semester), 3) Private insurance (50-150 PLN/month). Proof required for residence permit renewal.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "student_insurance",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "student_insurance",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-081",
+      "title": "Elderly Care and Geriatric Services",
+      "content": "NFZ covers geriatric consultations, home care for eligible seniors, assisted living (partial coverage). Private elderly care: home care services 30-50 PLN/hour, assisted living facilities 3,000-6,000 PLN/month, nursing homes 2,500-5,000 PLN/month. Growing sector with improving quality.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "elderly_care",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "elderly_care",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-082",
+      "title": "Telemedicine and Online Doctor Consultations",
+      "content": "Telemedicine growing in Poland. NFZ piloting online consultations. Private platforms: Telemedi, KnowMed, haloDoctor. Cost: 50-150 PLN per consultation. Available 24/7, results in minutes. Prescriptions issued electronically. English-speaking doctors available. Convenient for minor ailments, prescription refills.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "telemedicine",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "telemedicine",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-083",
+      "title": "Medical Translation Services",
+      "content": "Medical translation services available at major hospitals. English-speaking doctors common in private clinics, less in NFZ facilities. Professional medical translation: 100-200 PLN/hour. Phone translation apps helpful. Bring Polish-speaking friend for complex consultations. Medical tourism agencies provide translators.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "medical_translation",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "medical_translation",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-084",
+      "title": "Polish Pharmacy System - How It Works",
+      "content": "Pharmacies (apteki) widespread in Poland. Types: regular pharmacies, 24-hour pharmacies (dyżurna), hospital pharmacies. Pharmacists can advise on minor ailments. Many OTC medications cheaper than Western Europe. Popular chains: DOZ, Gemini, Dbam o Zdrowie. Online pharmacies deliver: DOZ.pl, Gemini.pl.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "pharmacy_system",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "pharmacy_system",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    },
+    {
+      "id": "hc-adv-085",
+      "title": "Banking Apps Security - Best Practices",
+      "content": "Polish banking apps use strong security: 2FA mandatory, biometric login, transaction limits, device registration. Best practices: never share codes, verify URLs, use official apps only, update apps regularly, avoid public WiFi for banking, enable notifications. Report suspicious activity immediately. Banks cover fraud if proper security followed.",
+      "metadata": {
+        "category": "healthcare_banking",
+        "subcategory": "banking_security",
+        "source_url": "https://www.nfz.gov.pl/",
+        "source_organization": "Healthcare authorities",
+        "last_verified": "2025-11-12",
+        "is_post_july_2025": false,
+        "keywords": [
+          "banking_security",
+          "advanced",
+          "Poland"
+        ],
+        "confidence_score": 0.94
+      }
+    }
+  ]
+}

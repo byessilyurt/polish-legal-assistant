@@ -1,0 +1,877 @@
+{
+  "category": "immigration",
+  "last_updated": "2025-11-11",
+  "total_documents": 95,
+  "documents": [
+    {
+      "id": "trp-001",
+      "title": "Temporary Residence Permit - Overview and Basic Information",
+      "content": "A temporary residence permit (zezwolenie na pobyt czasowy) in Poland is granted for periods exceeding 3 months and up to 3 years. Applications must be submitted in person to the voivode (provincial governor) competent for the place of residence, no later than on the last day of legal stay in Poland. When the application is made during legal stay and is free of formal defects, the voivode places a stamp in the travel document confirming the application, and the foreigner's stay is deemed legal from the day of submitting the application until the decision becomes final. The standard fee is PLN 340 for the application, plus PLN 50 for issuing the residence card. Fingerprints must be provided when submitting the application.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "residence_permits",
+        "source_url": "https://udsc.gov.pl/en/cudzoziemcy/obywatele-panstw-trzecich/chce-przedluzyc-swoj-pobyt-w-polsce/zezwolenie-na-pobyt-czasowy/basic-information/",
+        "source_organization": "Office for Foreigners (Urząd do Spraw Cudzoziemców)",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["temporary residence", "permit", "application", "fees", "voivode"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "trp-002",
+      "title": "Temporary Residence and Work Permit (Single Permit) - Requirements and Process",
+      "content": "The single permit (zezwolenie na pobyt czasowy i pracę) combines residence and work authorization for long-term employment in Poland. Basic requirements include: being a third-country national legally residing in Poland, having a valid job offer from a Polish employer, and the declared and actual purpose of stay being to take up or continue work. The permit is granted for up to 3 years, depending primarily on the employment contract duration. Applications must be submitted at least 45-60 days before current legal status expires. The stamp duty is PLN 440 for this combined permit. Important: Your permit entitles you to work only under the conditions specified in the permit, and you cannot work for another employer on its basis without updating the permit.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "work_permits",
+        "source_url": "https://udsc.gov.pl/en/cudzoziemcy/obywatele-panstw-trzecich/chce-przedluzyc-swoj-pobyt-w-polsce/zezwolenie-na-pobyt-czasowy/praca/jednolite-zezwolenie-na-pobyt-i-prace/",
+        "source_organization": "Office for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["single permit", "work permit", "employment", "zezwolenie"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "law-change-001",
+      "title": "MAJOR CHANGE: June 2025 Immigration Law Reforms - Digital Application System",
+      "content": "From June 1, 2025, all residence permit applications must be submitted through the MOS (Moduł Obsługi Spraw) platform at mos.cudzoziemcy.gov.pl. Paper applications, postal submissions, and in-person forms are no longer accepted. The MOS system enables electronic submission of applications for temporary residence, permanent residence, and long-term EU resident permits. Applications can be submitted using a qualified electronic signature, personal signature, or trusted profile signature (profil zaufany). The platform is available in seven languages: Polish, English, Ukrainian, Russian, French, Vietnamese, and Arabic.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "legal_changes",
+        "source_url": "https://residence-angels.com/blog_latest_news/tpost/9f87uonn01-latest-news-poland-june-2025-new-immigra",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["June 2025", "MOS platform", "digital applications", "electronic submission"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "law-change-002",
+      "title": "MAJOR CHANGE: June 2025 - Employer Notification Requirements",
+      "content": "Effective June 1, 2025, employers face strict new notification requirements. For work permits, employers must notify authorities within 7 days if: a foreign national has not started employment within 2 months from the permit's initial validity date, has stopped working for more than 2 months, or terminated employment earlier than 2 months before permit expiry. For residence and work permits, employers must notify within 15 working days of job termination, changes in company details, employment contracts, job titles, or salary changes. Failure to meet notification requirements results in fines from PLN 500 to PLN 5,000. All notifications must be submitted exclusively online via praca.gov.pl.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "legal_changes",
+        "source_url": "https://bpcc.org.pl/new-immigration-rules-in-poland-key-changes-for-employers-starting-june-1-2025/",
+        "source_organization": "British Polish Chamber of Commerce",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["June 2025", "employer obligations", "notification requirements", "compliance"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "law-change-003",
+      "title": "MAJOR CHANGE: May-June 2025 - Labor Market Test Eliminated, Protected Professions List Introduced",
+      "content": "Effective June 1, 2025, Poland eliminated the mandatory labor market test (opinia starosty). Employers are no longer required to obtain confirmation from local labor offices about the unavailability of Polish workers. This accelerates the work permit process by 4-6 weeks. Instead, Poland introduced a protected professions system: each district (powiat) may publish a list of jobs that are closed to foreign workers due to economic conditions (e.g., layoffs, high unemployment). As of July 2025, no protected lists have been published, but they may appear regionally based on labor market conditions. This applies to citizens of all countries, including simplified procedure countries (Ukraine, Belarus, Georgia, Moldova, Russia, Armenia).",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "legal_changes",
+        "source_url": "https://www.fragomen.com/insights/poland-labor-market-test-eliminated-stricter-contract-and-notification-requirements-for-employers.html",
+        "source_organization": "Fragomen / Polish Government",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["June 2025", "labor market test", "protected professions", "work permit simplification"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "law-change-004",
+      "title": "MAJOR CHANGE: June-July 2025 - Schengen Visa Restrictions for Residence Applications",
+      "content": "From June 1, 2025, holders of residence permits or visas issued by other Schengen countries are not allowed to apply for Polish residence based on work unless specific mobility exemptions apply. However, they may still apply for stay on grounds such as family reunification or studies. Additionally, student visas no longer allow a switch to a work or business residence permit within Poland - most applicants are now required to leave the country and apply from abroad. This represents a significant tightening of Poland's immigration policy.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "legal_changes",
+        "source_url": "https://residence-angels.com/blog_latest_news/tpost/9f87uonn01-latest-news-poland-june-2025-new-immigra",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["June 2025", "Schengen visa", "restrictions", "student visa"],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "law-change-005",
+      "title": "MAJOR CHANGE: June-July 2025 - Job Change Simplification",
+      "content": "As of June 1, 2025, residence permit decisions only specify the validity period and salary amount, eliminating the need to amend permits when changing employers, job positions, or salary (within certain limits). However, foreigners must still inform the voivode about job loss, employer changes, or situations where they no longer meet permit conditions. For EU Blue Card holders who have worked in Poland for 2 years, they can change employers, positions, and salaries without changing the permit, provided they continue in highly qualified work. Standard permit holders with limited labor market access cannot freely change employers without applying for a new permit.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "legal_changes",
+        "source_url": "https://mos.cudzoziemcy.gov.pl/en/informacje/kontynuacja_EN/szczegolowe_objasnienie_EN",
+        "source_organization": "MOS Platform",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["June 2025", "job change", "employer change", "flexibility"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "law-change-006",
+      "title": "June-July 2025 - Polish Language Requirements for EU Long-Term Residence",
+      "content": "Changes to Polish language proficiency requirements for EU long-term resident permits came into effect in July 2025. Graduates of post-secondary Polish-language schools before June 30, 2025 can still use their diplomas to prove Polish language skills for applications submitted between July 1, 2025 and June 30, 2026. After this transitional period ends, all applicants will need to provide a B1 level Polish language certificate. This represents a gradual tightening of language requirements for long-term residents.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "legal_changes",
+        "source_url": "https://residence-angels.com/blog_latest_news/tpost/9f87uonn01-latest-news-poland-june-2025-new-immigra",
+        "source_organization": "Multiple sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["July 2025", "language requirements", "Polish language", "EU long-term resident"],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "prp-001",
+      "title": "Permanent Residence Permit - Requirements and Eligibility",
+      "content": "A permanent residence permit (zezwolenie na pobyt stały) in Poland is granted indefinitely but the residence card is valid for 10 years. Main requirement: continuous residence in Poland for at least 5 years with a valid temporary residence permit. 'Continuous' means total breaks in stay should not exceed 10 months total, with no single break longer than 6 months. Additional requirements include: stable and regular income (minimum PLN 4,666 gross/month from January 1, 2025), Polish language skills at B1 level confirmed by certificate, health insurance valid in Poland, and legal title to occupy residential premises. Important: Time on work permits counts fully (1:1), but time on student permits counts at half rate (1:2) toward the 5-year requirement. Stamp duty is PLN 640.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "residence_permits",
+        "source_url": "https://udsc.gov.pl/en/cudzoziemcy/obywatele-panstw-trzecich/chce-osiedlic-sie-w-polsce/zezwolenie-na-pobyt-staly/",
+        "source_organization": "Office for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["permanent residence", "5 years", "continuous stay", "requirements"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "prp-002",
+      "title": "Permanent Residence Permit - Special Cases and Shorter Pathways",
+      "content": "Poland offers shorter pathways to permanent residence for certain applicants: (1) Spouses of Polish citizens: 3 years of marriage plus 2 years of residence in Poland on a temporary permit; (2) Children of Polish citizens under parental authority; (3) Holders of Pole's Card (Karta Polaka): can apply for permanent residence immediately upon arrival, with fast-track to citizenship after 1 year; (4) Refugees/subsidiary protection holders: 5 years of continuous residence; (5) Victims of human trafficking: 1 year on trafficking victim permit with cooperation with prosecutors. All permanent residence permit applications are exempt from stamp duty fees if you hold a valid Pole's Card.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "residence_permits",
+        "source_url": "https://www.immigration-poland.com/poland-permanent-residence/",
+        "source_organization": "Immigration Poland / Official sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["permanent residence", "fast-track", "special cases", "Polish spouse"],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "eultr-001",
+      "title": "EU Long-Term Residence Permit - Requirements and Benefits",
+      "content": "The EU long-term residence permit (rezydent długoterminowy UE) is issued for an indefinite period after 5 years of continuous legal residence in Poland. Requirements: (1) Legal and continuous residence for at least 5 years immediately prior to application (same 10-month total/6-month single absence rules as permanent residence); (2) Stable and regular income sufficient for self and dependents - must provide PIT tax returns for last 3 years (or 2 years for EU Blue Card holders); (3) Polish language proficiency at B1 level confirmed by certificate; (4) Health insurance; (5) Legal accommodation. Benefits: Right to stay indefinitely in Poland, work without restrictions, travel and work in other EU countries (with some conditions). Stamp duty: PLN 640. This permit offers greater mobility within the EU compared to regular permanent residence.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "residence_permits",
+        "source_url": "https://www.gov.pl/web/udsc-en/permit-for-residence-of-a-long-term-eu-resident",
+        "source_organization": "Office for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["EU long-term resident", "5 years", "mobility", "B1 language"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "work-001",
+      "title": "Work Permit Types in Poland - A, B, C, D, E Classifications",
+      "content": "Poland issues five types of work permits: TYPE A (Standard Employment): For foreign nationals employed under contract with a Polish entity. Most popular type. Valid up to 3 years. TYPE B (Board Members/Management): For members of management boards of Polish companies. Valid up to 5 years if company employs 25+ people. TYPE C (Posted Workers with Local Presence): For those delegated to Poland by foreign employer for over 30 days per year to work for subsidiary/branch. TYPE D (Posted Workers No Local Presence): For occasional temporary work in export services where foreign employer has no Polish branch. TYPE E (Other Employment): For work not falling into other categories, including delegation to Poland for over 30 days in 6 months. All work permits are issued by the voivode at employer's request.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "work_permits",
+        "source_url": "https://www.careersinpoland.com/article/arrival-and-stay/work-permits-in-poland",
+        "source_organization": "Careers in Poland / Official sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["work permit types", "Type A", "Type B", "employment categories"],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "work-002",
+      "title": "Simplified Work Procedures for Citizens of 6 Countries",
+      "content": "Citizens of Ukraine, Russia, Belarus, Georgia, Armenia, and Moldova benefit from simplified access to the Polish labor market. They may work for up to 6 months within any 12-month period without needing a work permit, provided they have: (1) A written statement from the employer registered at the competent district labor office (PUP); (2) A written employment contract. This simplified procedure applies until May 2025 rules changes. Important: This does NOT replace the need for a valid visa or residence permit - it only exempts from work permit requirements. The 6-month period is calculated cumulatively within 12 consecutive months.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "work_permits",
+        "source_url": "https://archiwalna.udsc.gov.pl/en/cudzoziemcy/obywatele-panstw-trzecich/chce-pracowac-w-polsce/",
+        "source_organization": "Office for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["simplified procedure", "Ukraine", "6 months", "declaration"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "work-003",
+      "title": "EU Blue Card - Requirements for Highly Qualified Workers (2025)",
+      "content": "The EU Blue Card is for highly qualified employment in Poland. 2025 Requirements: (1) Qualifications: University degree relevant to position OR at least 5 years of professional experience in the field; (2) Employment: Labor contract for at least 6 months (reduced from 1 year); (3) Salary: Must be at least 150% of average Polish salary = PLN 12,272.60 gross per month in 2025 (increased from PLN 10,733.22 in 2024); (4) Valid travel document and health insurance. Application: Only online via MOS platform. Stamp duty: PLN 440. Benefits: After 2 years, can change employers without reissuing card; After 18 months, right to relocate to another EU country for work; Family members can work without separate permit. Blue Card holders can apply for permanent residence after 3 years (reduced from 5).",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "work_permits",
+        "source_url": "https://bizky.ai/blog/eu-blue-card-in-poland-2025-conditions-advantages/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["EU Blue Card", "highly qualified", "2025 salary", "benefits"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "work-004",
+      "title": "Intra-Corporate Transfer (ICT) Permit - Requirements and May 2025 Changes",
+      "content": "The ICT permit is for employees transferred from a company outside EU/EEA to a branch in Poland. MAJOR CHANGES EFFECTIVE MAY 1, 2025: (1) Corporate connection required: One entity must directly/indirectly own shares in the other OR they must have common management board members; (2) Actual business activity: The transferring entity must conduct actual business in its country of registration (not just be registered). Requirements: (1) Prior employment: 12 months for managers/specialists, 6 months for trainees; (2) Salary: At least 70% of regional average (e.g., PLN 3,887 for Warsaw); (3) First application submitted by host entity while employee is outside EU. Duration: Maximum 3 years for managers/specialists, 1 year for trainees. EU Mobility: Can work in other EU countries under short-term (under 90 days) or long-term mobility rules. Stamp duty: PLN 440.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "work_permits",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/procedury/intra-corporate-transfers-ict",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["ICT", "intra-corporate transfer", "May 2025 changes", "corporate structure"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "work-005",
+      "title": "Seasonal Work Permit - Requirements and Procedures",
+      "content": "Seasonal work permits allow non-EU citizens to work in Poland for up to 9 months within a 12-month period in sectors like agriculture, tourism/hospitality, and construction. Requirements: (1) Non-EU/EEA citizenship; (2) Job offer from Polish employer; (3) Valid passport (6+ months validity); (4) Employment contract signed by employer; (5) Proof of accommodation; (6) Health insurance. Application process: (1) Employer applies for work permit at Voivodeship Office (30-day processing); (2) Worker applies for seasonal work visa (Type D) at Polish consulate; (3) Upon arrival, register stay within 4 days. Important: Citizens of Armenia, Belarus, Georgia, Moldova, Russia, and Ukraine are exempt from labor market test. Financial requirements: At least PLN 75 per day of planned stay (minimum PLN 300 for up to 4 days) plus PLN 200 for return ticket if not already purchased. Permit valid only in Poland, cannot be used for other Schengen countries. Stamp duty: PLN 170.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "work_permits",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/procedury/seasonal-work",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["seasonal work", "9 months", "agriculture", "tourism"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "student-001",
+      "title": "Student Residence Permit - Requirements and 2025 Changes",
+      "content": "Temporary residence permit for studies is granted for 15 months (first permit) or the term of academic year extended by 3 months. MAJOR CHANGE 2025: Minimum savings requirement increased from PLN 11,640 to PLN 15,150 (for 15 months). Requirements: (1) Certificate from university signed by Rector confirming enrollment/continuation, and proof of fee payment if studying on fee basis; (2) Financial proof: PLN 15,150 for 15 months after deducting housing costs; (3) Housing: Lease agreement or dormitory confirmation; (4) Travel document: Valid at least 1 year from entry, with 2+ free pages, issued for no more than 10 years; (5) Health insurance covering treatment in Poland. Application: Must be submitted in person to voivode for place of residence. Fees: PLN 340 application + PLN 100 for residence card. Processing: Approximately 60 days. Documents in languages other than Polish must be translated by certified translator. IMPORTANT 2025 CHANGE: Student visas no longer allow switching to work/business permits within Poland - must leave and apply from abroad.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "residence_permits",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/procedury/full-time-studies",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["student permit", "studies", "2025 changes", "financial requirements"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "student-002",
+      "title": "Graduate Residence Permit - Job Search and Business",
+      "content": "Foreign graduates of Polish universities may receive a temporary residence permit for 9 months to look for work or establish economic activity. This permit is granted ONCE only. Requirements: (1) Graduation from Polish university (including doctoral studies); (2) Application must be submitted while current legal status is valid; (3) Standard requirements: health insurance, proof of accommodation, sufficient financial means. During this 9-month period, graduates can: (1) Seek employment; (2) Establish their own business; (3) Work without needing a separate work permit. This is a transitional permit designed to facilitate graduates' entry into the Polish labor market. Stamp duty: PLN 340 + PLN 100 for card. After securing employment or establishing business, graduates should apply for appropriate residence permit (work permit, business activity permit, etc.).",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "residence_permits",
+        "source_url": "https://www.gov.pl/web/udsc-en/permit-for-temporary-residence--graduate",
+        "source_organization": "Office for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["graduate", "9 months", "job search", "Polish university"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "business-001",
+      "title": "Business Activity Residence Permit - Requirements for Entrepreneurs",
+      "content": "Temporary residence permit for conducting business activity allows foreign entrepreneurs to establish and run businesses in Poland. 2025 Requirements: (1) Must have registered business in Poland generating annual revenue of at least PLN 100,000 (approx. USD 24,000) OR employ at least 2 full-time employees (Polish/EU citizens or foreigners with work rights) for 12+ months; (2) If conditions not yet met, must provide evidence of sufficient funds to meet them in future; (3) Declared and actual purpose of stay must be conducting business activity; (4) Health insurance valid in Poland; (5) Stable and regular income: At least PLN 776/month for single applicants, PLN 600/month per family member; (6) Guaranteed residence in Poland. Duration: Up to 2 years, renewable. After 5 years continuous stay, eligible for EU long-term residence. Stamp duty: PLN 340 + PLN 100 for card. IMPORTANT NOTE: 2025 changes removed previous income thresholds for established businesses, making this permit more accessible.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "residence_permits",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/procedury/business-activity",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["business activity", "entrepreneur", "self-employed", "2025 changes"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "business-002",
+      "title": "Poland Business Harbour (PBH) - Special Visa for IT Professionals",
+      "content": "Poland Business Harbour (PBH) is a special program targeting tech founders and IT experts. Requirements: (1) Technical education in IT OR minimum 1 year work experience in IT industry; (2) Interest from partner company listed on official PBH website. Benefits: (1) IT professionals can work without work permit; (2) Can establish sole proprietorships; (3) Can bring immediate family members; (4) Faster processing than standard procedures with fewer documents. Duration: 1 year, renewable. After expiry, holders can apply for new PBH visa or start standard residence/work legalization procedures. This is an attractive option for IT professionals wanting to work in Poland's growing tech sector. Application: Through standard visa channels with PBH documentation.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "residence_permits",
+        "source_url": "https://cgolegal.com/poland-business-harbour/",
+        "source_organization": "Polish Government",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["Poland Business Harbour", "IT", "tech", "startup"],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "researcher-001",
+      "title": "Research Scientist Residence Permit - Requirements",
+      "content": "Temporary residence permit for conducting scientific research is for scientists with at least Master's degree (or equivalent allowing access to doctoral studies). Requirements: (1) Educational qualifications: University degree (e.g., Master's) enabling commencement of doctoral programme; (2) Special contract with Polish research institution acknowledged by Ministry of Interior and Administration; (3) Standard requirements: health insurance, sufficient funds, accommodation; (4) Written statement from research institution taking responsibility for reimbursing costs related to stay and return if incurred by Polish authorities. Duration: Granted for period necessary to achieve purpose of stay, longer than 3 months, maximum 3 years. Benefits: (1) Family members (spouse, adult children) can work in Poland without work permit; (2) Scientists can travel to other EU countries for conducting part of research for more than standard 90 days. Fees: PLN 340 application + PLN 100 for card.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "residence_permits",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/procedury/scientific-research",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["research", "scientist", "academic", "doctoral"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "family-001",
+      "title": "Family Reunification - Spouse of Polish Citizen",
+      "content": "Spouses and minor children of Polish citizens can apply for temporary residence permit with significant advantages. Requirements: (1) Valid marriage recognized by Polish law (opposite-sex, legally registered, non-polygamous, not purely religious); (2) For permanent residence: Married at least 3 years + resided in Poland continuously for 2+ years on temporary permit. MAJOR BENEFITS: (1) NO need to show health insurance, income, or accommodation proof when applying; (2) Automatic right to work without work permit; (3) Simplified path to permanent residence (2 years vs. 5 years); (4) After 1 year of permanent residence, can apply for Polish citizenship. Duration: Typically 3 years, renewable. Fees: PLN 340 + PLN 100 for card. Application: At voivodeship office for place of residence. Processing: Approximately 180 days but can vary by office.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "family_reunification",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/procedury/i-am-spouse-polish-citizen",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["family reunification", "Polish spouse", "marriage", "work rights"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "family-002",
+      "title": "Family Reunification - Family Members of Foreign Residents",
+      "content": "Third-country nationals can bring family members to Poland through family reunification. Eligibility: Sponsor must hold temporary residence permits for at least 2 years prior to application. Family members include: spouse, minor children (including adopted), minor children under parental authority, direct ascendants if dependent. Requirements: (1) Sponsor: Valid residence permit, stable income, registered accommodation, valid health insurance, no criminal record; (2) Applicant: Proof of family relationship (marriage certificate, birth certificates - translated & legalized), evidence of living together before application (photos, joint rental, joint mail); (3) Financial: Income sufficient for sponsor and all dependent family members. Duration: 3 years, renewable. Processing: Average 180 days. Benefits: In most cases, spouses can work legally (verify residence card includes work rights). From 2025, MOS platform allows online submissions and status tracking. Fees: PLN 340 + PLN 100 for card.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "family_reunification",
+        "source_url": "https://visaguide.world/europe/poland-visa/long-stay/family-visa/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["family reunification", "spouse", "children", "third-country national"],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "family-003",
+      "title": "Minor Children Born in Poland - Residence Requirements",
+      "content": "Children born in Poland to foreign parents do NOT automatically receive Polish citizenship. Important facts: (1) Child is NOT automatically covered by parent's permit; (2) Must apply for separate residence permit for child as soon as child's travel document is issued; (3) Child has legal stay ONLY after decision granting residence permit is issued. Requirements for child's permit: (1) Parent(s) have valid visa or temporary residence permit that was valid when child was born; (2) Parent(s) have health insurance; (3) Parent(s) have secure source of regular income sufficient for subsistence; (4) Parent(s) have place to live in Poland. Application: Submitted by parent(s) or legal guardian(s) on behalf of minor child. Special case for permanent residence: Child born during parent's permanent/EU long-term resident permit validity, or born during temporary permit granted to parent, may be eligible for permanent residence.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "family_reunification",
+        "source_url": "https://www.gov.pl/web/udsc-en/permit-for-temporary-residence--child-born-in-poland",
+        "source_organization": "Office for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["children", "born in Poland", "minor", "citizenship"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "volunteer-001",
+      "title": "Volunteer Residence Permit - NGO and European Voluntary Service",
+      "content": "Foreigners participating in European Voluntary Service or authorized volunteer programs can obtain temporary residence permit for volunteering. Requirements: (1) Stay longer than 3 months with primary purpose being volunteering; (2) Volunteering organization must be authorized by minister competent for internal affairs; (3) Agreement on participation in volunteering with authorized organization; (4) Confirmation of sufficient funds to cover costs of stay and return ticket; (5) Health insurance; (6) Guaranteed residence in Poland; (7) Standard documents: application form, travel document, 4 photographs. Duration: Period necessary to perform contract, minimum 3 months, maximum 1 year. Fees: PLN 340 stamp duty + PLN 100 for residence card. Processing: Should end within 60 days. IMPORTANT LIMITATION: This permit does NOT give right to perform paid work without obtaining additional work permit. Separate work authorization needed for any employment.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "residence_permits",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/procedury/volunteering",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["volunteer", "EVS", "NGO", "volunteering"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "humanitarian-001",
+      "title": "Residence Permit for Victims of Human Trafficking",
+      "content": "Poland offers temporary residence permit for victims of human trafficking with special provisions. Requirements: (1) Victim has severed contacts with persons suspected of human trafficking; (2) Cooperating with prosecutor in matter of punishing traffickers; (3) NO requirement to demonstrate health insurance or means of subsistence (unlike most permits). Duration: Minimum 6 months, maximum 3 years. Path to permanent residence: After at least 1 year on trafficking victim permit, can apply for permanent residence if: (1) Continued cooperation with law enforcement; (2) Justified fears of returning to country of origin confirmed by prosecutor. Benefits: (1) Can work without separate work permit; (2) Exempted from standard financial/insurance requirements; (3) Fast-track to permanent residence (1 year vs. 5 years); (4) Protected from deportation during proceedings. Application: At voivodeship office with prosecutor's confirmation of cooperation.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "humanitarian",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/procedury/i-am-victim-human-trafficking",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["trafficking", "victim", "humanitarian", "protection"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "humanitarian-002",
+      "title": "Tolerated Stay Permit (Pobyt Tolerowany)",
+      "content": "Tolerated residence (pobyt tolerowany) is national protection against expulsion for third-country nationals who cannot leave Poland. Grounds for granting: (1) Obliging foreigner to return would be to country where their right to life, liberty, personal security would be threatened; (2) Or they could be subjected to torture, inhuman/degrading treatment; (3) Or return is impossible for reasons beyond control of authority and foreigner. Issued by: Commanding officer of Border Guard unit/post. Duration: Valid for 2 years from issue date. Rights: (1) Can work without work permit; (2) Entitled to social assistance. Restrictions: (1) Cannot cross Republic of Poland border; (2) Cannot apply for temporary residence permit or EU long-term resident permit while on tolerated stay. Obligations: May be required to report periodically to authorities and inform about address changes. Path to permanent residence: After 10 years continuous residence on tolerated stay (with some exceptions based on reason for granting).",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "humanitarian",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/procedury/i-have-permit-tolerated-stay-poland",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["tolerated stay", "pobyt tolerowany", "protection", "deportation"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "poles-001",
+      "title": "Pole's Card (Karta Polaka) - Benefits and Fast-Track Residence",
+      "content": "The Pole's Card (Karta Polaka) confirms membership in Polish Nation for people of Polish descent living abroad. Since 2019, eligibility expanded from specific former USSR countries to Polish descendants worldwide. Requirements to obtain: (1) At least one parent/grandparent OR two great-grandparents of Polish nationality; (2) Demonstrate connection with Polishness (language, culture, traditions); (3) Declare Polish nationality. MAJOR BENEFITS FOR RESIDENCE: (1) Can apply for permanent residence IMMEDIATELY upon arrival in Poland (no waiting period); (2) After 1 year of permanent residence, eligible to apply for Polish citizenship; (3) EXEMPT from stamp duty fees for permanent residence application; (4) Can work without work permit; (5) Can establish business on same terms as Polish citizens; (6) Free emergency healthcare; (7) Access to free education and scholarships; (8) 37% discount on rail travel; (9) Free entry to state museums; (10) Exempt from fees for Polish national visa. This represents fastest pathway to Polish citizenship for eligible persons.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "special_programs",
+        "source_url": "https://migrant.legal/en/the-poles-card-karta-polaka-who-is-it-for-and-what-benefits-does-it-offer/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["Karta Polaka", "Polish Card", "Polish descent", "fast-track citizenship"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "poles-002",
+      "title": "Repatriation Programs for Ethnic Poles",
+      "content": "Poland's repatriation programs support people of Polish origin forced to leave homeland or descendants of exiled Poles. Eligibility: Descendants of Polish citizens who before January 1, 2001 permanently resided in countries of the Caucasus or Asian part of Russia. Benefits: (1) Assistance with relocation; (2) Financial support; (3) Integration support; (4) Direct path to Polish citizenship through repatriation; (5) EXEMPT from residence permit fees. Requirements to be considered Polish descent: (1) Declare Polish nationality; (2) At least one parent, grandparent, or two great-grandparents of Polish nationality; (3) Demonstrate connection with Polishness (language, traditions, culture). Repatriation represents complete recognition as member of Polish nation with immediate citizenship pathway. Different from economic immigration - designed for ethnic Poles returning to ancestral homeland.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "special_programs",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/procedury/i-am-polish-origin",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["repatriation", "Polish descent", "ethnic Poles", "citizenship"],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "ukrainian-001",
+      "title": "Special Procedures for Ukrainian Citizens - Temporary Protection and CUKR",
+      "content": "Ukrainian citizens who arrived after February 24, 2022 have special simplified procedures under temporary protection law. Current status (2025): Temporary protection extended until September 30, 2025. Requirements: (1) Foreign passport with border crossing stamp; (2) PESEL number (obtain within 30 days after entry). Work rights: Can work without additional permits - full access to labor market. Employer only needs to notify district labor office (PUP) within 7 days via praca.gov.pl. NEW 2025: CUKR Residence Card (Residence Card for Persons Fleeing Consequences of War): (1) Fully electronic application process via Office for Foreigners website; (2) Valid for 3 years; (3) Available to those with uninterrupted CUKR status for 365+ days; (4) Grants full labor market access and right to conduct business; (5) Represents long-term alternative to temporary protection. This is most streamlined immigration procedure currently available in Poland.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "special_programs",
+        "source_url": "https://www.ey.com/en_pl/insights/workforce/important-update-on-the-legalization-of-ukrainian-citizens-stay-in-poland-introduction-of-cukr",
+        "source_organization": "EY / Polish Government",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["Ukraine", "temporary protection", "CUKR", "special procedures"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "visa-001",
+      "title": "Poland Visa Types - A, C, and D Visas",
+      "content": "Poland issues three main visa types: TYPE A (Airport Transit Visa): Valid for transit through international transit areas of Schengen airports. Required for citizens of: Afghanistan, Bangladesh, DR Congo, Eritrea, Ethiopia, Ghana, Iran, Iraq, Nigeria, Pakistan, Somalia, Sri Lanka. TYPE C (Schengen Visa): Uniform Schengen visa valid in entire Schengen Area. Permits maximum 90 days stay during any 180-day period. Variant: Limited territorial validity Schengen visa (valid only in specific Schengen states, not all). TYPE D (National Visa): For stays exceeding 90 days. Validity cannot exceed 1 year. Holders can also stay in other Schengen states for 90 days of any 180-day period. Special rule: Visas for scientific research, internships, European Voluntary Service, repatriation, or Pole's Card holders are issued ONLY as national visas. Application: At Polish embassy/consulate in country of residence. Processing time varies but typically 15-90 days depending on visa type and circumstances.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "visas",
+        "source_url": "https://www.gov.pl/web/diplomacy/visas",
+        "source_organization": "Ministry of Foreign Affairs",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["visa", "Type A", "Type C", "Type D", "Schengen"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "visa-002",
+      "title": "Visa-Free Entry to Poland and Schengen Area",
+      "content": "Citizens of countries listed in EU Regulation No 2018/1806 can enter Poland visa-free for short stays (up to 90 days within 180-day period). Special bilateral agreements: Citizens of Argentina, Brazil, Chile, Honduras, Costa Rica, Nicaragua, Singapore, and Uruguay can apply for 90-day extension of visa-free stay in justified cases. Financial requirements for visa-free entry: PLN 300 if stay does not exceed 4 days, OR PLN 75 for each day if stay exceeds 4 days (or equivalent foreign currency). IMPORTANT UPCOMING CHANGE: From October 12, 2025, the European Union's Entry/Exit System (EES) begins rollout. Travelers from visa-exempt countries will need to register biometric details (fingerprints and photo) when entering Schengen area for short stays. ETIAS (European Travel Information and Authorization System) becoming mandatory late 2026 for visa-exempt travelers. Complete list of visa-exempt countries available at Ministry of Foreign Affairs website and EU Regulation 2018/1806.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "visas",
+        "source_url": "https://www.gov.pl/web/mswia-en/entry-and-residence-conditions-for-foreign-nationals-in-poland",
+        "source_organization": "Ministry of Interior and Administration",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["visa-free", "90 days", "EES", "ETIAS", "Schengen"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "procedure-001",
+      "title": "Where to Apply for Residence Permits - Voivodeship Offices",
+      "content": "Residence permit applications must be submitted to the voivode (provincial governor) competent for applicant's place of residence in Poland. Poland has 16 voivodeships (provinces), each with voivodeship office handling foreigner affairs. Application submission: (1) In person at voivodeship office; (2) Via Polish Post by registered mail with confirmation of receipt; (3) FROM JUNE 2025: Only via MOS electronic platform (no paper applications). Key voivodeship offices locations: (1) Dolnośląskie - Wrocław, pl. Powstańców Warszawy 1; (2) Kujawsko-Pomorskie - Bydgoszcz, ul. Jagiellońska 3; (3) Małopolskie - Kraków, ul. Basztowa 22; (4) Mazowieckie - Warsaw, pl. Bankowy 3/5; (5) Wielkopolskie - Poznań, al. Niepodległości 16/18; (6) And 11 others across Poland. Important: Apply at office for YOUR place of residence, not any office. Different offices may have different processing times and appointment systems. Contact: Check specific office website for appointment booking, hours, and procedures.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "procedures",
+        "source_url": "https://krasuski.legal/en/residence-permit/where-to-apply-for-a-residence-permit-trc",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["voivodeship", "where to apply", "application location", "offices"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "procedure-002",
+      "title": "Application Stamp in Passport - Legal Stay During Processing",
+      "content": "When you submit residence permit application during legal stay with no formal defects (or defects corrected within deadline), voivode places stamp in your travel document. What the stamp means: (1) Confirms application was submitted; (2) Your stay is deemed LEGAL from day of application until final decision; (3) Stamp validity extends your legal stay throughout entire processing period. What the stamp does NOT allow: (1) Does NOT entitle travel to other Schengen states; (2) Does NOT automatically grant work authorization (can only work if you had valid work authorization when you applied); (3) Can only travel to country of origin; need visa to return to Poland if from visa-required country. Legal basis: Stay legality is based on FACT of lodging application within statutory time limit, not on having stamp in passport. If voivode didn't stamp passport (e.g., during COVID) your stay is still legal if you properly submitted application. Important: Keep confirmation of application submission.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "procedures",
+        "source_url": "https://udsc.gov.pl/en/cudzoziemcy/obywatele-panstw-trzecich/chce-przedluzyc-swoj-pobyt-w-polsce/zezwolenie-na-pobyt-czasowy/basic-information/",
+        "source_organization": "Office for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["stamp", "passport", "legal stay", "pending application"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "procedure-003",
+      "title": "Can I Work While My Application is Pending?",
+      "content": "Working during pending residence application depends on your situation at time of application. YOU CAN WORK IF: On day you submitted application, you held valid work permit or residence/work permit. Your previous work authorization continues during application processing. YOU CANNOT WORK IF: You did not have work authorization when you submitted application. JUNE 2025 CHANGE: Stamp confirmations of pending work permit applications no longer allow employment if foreigner was not previously authorized to work. Important clarifications: (1) Legal stay ≠ work authorization. Stamp confirms legal stay but not automatic work rights; (2) If you lose job during processing, you must notify voivode within 15 working days; (3) For single permit (residence and work), if you had job when applied, can continue working; (4) If applying for first-time work authorization, must wait for positive decision before starting work. Planning tip: Apply for work/residence permit BEFORE current authorization expires to maintain continuous work rights.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "procedures",
+        "source_url": "https://velocityglobal.com/resources/blog/poland-work-visa-legal-authorization/",
+        "source_organization": "Multiple official sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["work during pending", "stamp", "work authorization", "legal stay"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "procedure-004",
+      "title": "Residence Permit Expiring - What to Do for Renewal",
+      "content": "If your residence permit is about to expire and you want to stay in Poland, follow these steps: TIMING: Submit application for renewal IN PERSON no later than LAST DAY of legal stay. Recommended: Apply 45-60 days before expiration. Application methods: (1) In person at voivodeship office for your residence; (2) Via Polish Post registered mail with confirmation; (3) FROM JUNE 2025: Via MOS electronic platform only. What happens after you apply: (1) Voivode stamps your passport; (2) Your stay becomes legal from application day until final decision; (3) Can remain in Poland throughout processing (if applied during legal stay with complete application). Requirements: (1) Provide fingerprints when applying; (2) Pay stamp duty in advance (PLN 340-640 depending on permit type); (3) Valid passport throughout processing. If refused: You have 30 days from final decision to leave Poland unless you appeal or have another legal basis for stay. Important: If you let permit expire BEFORE applying, you're in Poland illegally and may face deportation proceedings. Always apply BEFORE expiration.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "procedures",
+        "source_url": "https://udsc.gov.pl/en/cudzoziemcy/obywatele-panstw-trzecich/chce-przedluzyc-swoj-pobyt-w-polsce/zezwolenie-na-pobyt-czasowy/basic-information/",
+        "source_organization": "Office for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["renewal", "expiring permit", "extension", "deadline"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "procedure-005",
+      "title": "Traveling Abroad During Pending Residence Application",
+      "content": "Can you travel while waiting for residence permit decision? LIMITED TRAVEL ALLOWED: PERMITTED: Travel to your country of origin. NOT PERMITTED: Travel to other Schengen countries (stamp does not grant Schengen travel rights). IMPORTANT: To return to Poland after traveling, if you're from visa-required country, you MUST obtain new visa at Polish embassy/consulate abroad. Without visa, you cannot return even though application is pending. Exceptions: Some nationalities with bilateral agreements may have different rules. Risk considerations: (1) Leaving Poland during processing may complicate application; (2) Must ensure visa obtained abroad allows re-entry; (3) Processing delays abroad for visa could mean missing appointments/deadlines in Poland. Recommendation: Avoid international travel during application processing unless absolutely necessary. If must travel: (1) Contact voivodeship office beforehand; (2) Verify visa requirements for return; (3) Keep all application documentation with you; (4) Allow extra time for visa processing abroad.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "procedures",
+        "source_url": "https://udsc.gov.pl/en/cudzoziemcy/obywatele-panstw-trzecich/chce-przedluzyc-swoj-pobyt-w-polsce/zezwolenie-na-pobyt-czasowy/basic-information/",
+        "source_organization": "Office for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["travel", "pending application", "Schengen", "abroad"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "procedure-006",
+      "title": "Collecting Your Residence Card (Karta Pobytu) - Procedure",
+      "content": "After your residence permit is approved, you must collect the physical residence card. Process: STEP 1: Receive letter notification that decision is ready for collection. STEP 2: Go to voivodeship office with valid passport to collect positive decision. STEP 3: Wait additional few weeks for physical card production. STEP 4: Receive notification when card is ready for collection. STEP 5: Book collection appointment via office website (select 'CUDZOZIEMCY - Odbiór karty pobytu'). Collection requirements: (1) Valid travel document (passport); (2) Previous residence card if issued; (3) MUST collect IN PERSON (cannot send representative). At collection: (1) May take fingerprints again; (2) Sign documents; (3) Receive physical residence card. Card validity: During its validity, residence card confirms your identity throughout stay in Poland. Important: Check online if card is ready before going to office to avoid wasted trips. Card must be collected personally - it cannot be mailed or collected by proxy.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "procedures",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/procedury/issue-residence-card",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["collection", "karta pobytu", "residence card", "pickup"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "procedure-007",
+      "title": "Application Processing Times - What to Expect",
+      "content": "Processing times for residence permits vary by permit type, voivodeship office, and time of year. General guidelines: STANDARD TEMPORARY PERMITS: 1-6 months (60-180 days) typical. Official requirement: Decision within reasonable time, usually 60 days for straightforward cases. PERMANENT RESIDENCE: 3-12 months typical. EU LONG-TERM RESIDENT: 3-12 months typical. PRIORITY PROCESSING (from June 2025): Available for temporary residence and work permits when employer is business entity listed in register of entrepreneurs conducting economic activity of significant importance to national economy. Factors affecting processing time: (1) Completeness of application; (2) Need for additional documents/verification; (3) Workload at specific voivodeship office; (4) Complexity of case; (5) Background checks required. During processing: Your stay remains legal if you applied before expiration with complete application. No specific online status checking system widely available - contact voivodeship office directly for updates. Important: Processing times are NOT guaranteed. Plan accordingly and don't make travel plans dependent on specific processing completion dates.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "procedures",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/procedury/temporary-residence-and-work-permit",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["processing time", "how long", "waiting", "timeline"],
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "rejection-001",
+      "title": "Residence Permit Rejection - Appeal Process and Deadlines",
+      "content": "If your residence permit application is rejected, you have right to appeal. DEADLINES: You have 14 days from date of receipt of rejection notification to file appeal. This is STRICT deadline. Appeal submission: Must be submitted to voivode who issued rejection decision (not directly to Head of Office for Foreigners). Appeal should include: (1) Arguments why refusal is unjustified; (2) All documents showing you still fulfill requirements (valid insurance, lease, bank statements, etc.); (3) Must be signed. Possible outcomes: (1) Head of Office for Foreigners revokes voivode's decision and grants permit; (2) Upholds rejection if conditions not met; (3) Revokes decision and refers back for re-processing if procedural violations occurred. Legal status during appeal: Submitting appeal within deadline SUSPENDS execution of decision - your legal stay extends during appeal process. If appeal fails: Can file complaint with administrative court in Warsaw. If no appeal filed: Have 30 days from rejection receipt to leave Poland unless you have other legal basis for stay. Strong recommendation: Seek professional legal assistance from immigration lawyers to maximize chances of successful appeal.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "procedures",
+        "source_url": "https://welcome.uw.edu.pl/appeal-from-a-negative-decision/",
+        "source_organization": "Multiple sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["rejection", "appeal", "refusal", "negative decision"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "deportation-001",
+      "title": "Deportation and Return Orders - Rights and Appeal Process",
+      "content": "Foreign nationals may receive return decision (deportation order) for various reasons including illegal stay, false documents, or posing threat to public order. Your rights: APPEAL PERIOD: 7-14 days (varies by decision type) from when served with decision to file appeal. VOLUNTARY DEPARTURE: Return decision typically specifies 15-30 days for voluntary return from notification date. PROTECTION DURING APPEAL: Generally cannot be deported while appeal is pending if lodged within deadline. IMPORTANT 2025 CHANGE: Since April 7, 2023, legal regulation that prolonged time limit for complaints to provincial administrative court was repealed. Migrants can now be deported even before court considers application for stay of execution. Appeal requirements: Must include: (1) Legal error arguments; (2) Humanitarian grounds; (3) Right to family life considerations; (4) Length of stay and integration evidence. Submission: Appeal submitted to voivode who issued deportation (forwarded to Head of Office for Foreigners). If appeal fails: Can lodge complaint with administrative court with motion to stay execution. Cases where return decision CANNOT be issued: Refugees, those with humanitarian permits, tolerated stay permit holders, and certain other protected categories. Seek legal help immediately if you receive return decision.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "deportation",
+        "source_url": "https://residence-angels.com/deportation-appeal-poland",
+        "source_organization": "Multiple sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["deportation", "return order", "removal", "appeal"],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "documents-001",
+      "title": "Required Documents - Translations and Legalization",
+      "content": "Documents submitted for residence permits must meet specific requirements: TRANSLATIONS: All documents in languages other than Polish or English must be translated into Polish by sworn translator (tłumacz przysięgły). Sworn translation means officially certified translation with legal validity in Poland. LEGALIZATION: Two systems exist: (1) APOSTILLE: For countries party to Hague Convention (including Poland since 2005). Apostille confirms authenticity of signature, capacity of signer, and identity of seal/stamp. Cost: PLN 60 per document. (2) CONSULAR LEGALIZATION: For countries NOT party to Hague Convention. Must be legalized at embassy/consulate. DOCUMENT TYPES COMMONLY REQUIRED: Birth certificates, marriage certificates, educational diplomas, employment contracts, bank statements, rental agreements, insurance policies. ACADEMIC DOCUMENTS (2025): From July 1, 2025, NAWA Director issues recognition statements for secondary education certificates and Bachelor's diplomas. Holders of certificates from EU, EFTA, OECD, Ukraine, and China exempt from NAWA recognition requirement. Process: (1) Obtain original documents; (2) Get apostille/legalization in country of origin; (3) Have documents translated by Polish sworn translator; (4) Submit with application.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "documents",
+        "source_url": "https://www.gov.pl/web/diplomacy/certification-of-documents",
+        "source_organization": "Ministry of Foreign Affairs",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["documents", "translation", "apostille", "legalization"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "documents-002",
+      "title": "Biometric Requirements - Photos and Fingerprints",
+      "content": "Residence card applications require biometric data collection: FINGERPRINTS: Required from all applicants aged 6+. Taken electronically at voivodeship office during application submission. If sending application by post, must attend in person for fingerprints. Stored on residence card for identification purposes. PHOTOGRAPHS: Must provide 4 current biometric photographs with specifications: (1) Size: 35mm x 45mm; (2) Taken within last 6 months; (3) Color, on uniform bright background; (4) Face occupies 70-80% of photo; (5) Good sharpness clearly showing eyes and face from top of head to upper shoulders; (6) Looking directly ahead, eyes open, hair removed from face; (7) Natural expression, closed mouth; (8) Without headgear (religious exceptions may apply); (9) Without dark-lensed glasses. Photos must be intact and professional quality. Rejected photo reasons: Wrong size, old photos, poor quality, incorrect pose, covered face, shadows, filters/editing. Important: Photos are YOUR responsibility - use professional photo service familiar with Polish biometric requirements to avoid application delays. Fingerprints taken at office are official and don't require separate submission.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "documents",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/slownik-pojec/fingerprintsproviding-fingerprintsbiometric-data",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["biometric", "fingerprints", "photos", "requirements"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "fees-001",
+      "title": "Residence Permit Fees and Stamp Duties - Complete List 2025",
+      "content": "Complete fee structure for residence permits in Poland: TEMPORARY RESIDENCE PERMITS: Standard temporary permit: PLN 340 stamp duty. Temporary residence and work permit (single permit): PLN 440. Highly qualified employment (including Blue Card): PLN 440. Intra-corporate transfer (ICT): PLN 440. Mobility permit: PLN 440. Seasonal work: PLN 170. PERMANENT RESIDENCE: PLN 640 stamp duty. EU LONG-TERM RESIDENT: PLN 640 stamp duty. RESIDENCE CARD FEE: PLN 50-100 for issuing physical residence card (independent of stamp duty for granting permit). POWER OF ATTORNEY: PLN 17 if submitting via representative. EXEMPTIONS: Holders of Pole's Card: EXEMPT from permanent residence fees. Repatriates: EXEMPT from residence fees. Some humanitarian cases may have reduced/exempt fees. PAYMENT: Stamp duty must be paid IN ADVANCE before submitting application or within 7-14 days if requested by voivode. Pay to bank account or cash desk of tax authority (mayor of city) competent for voivode's seat. Non-payment results in application return. Payment is NON-REFUNDABLE even if application rejected.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "fees",
+        "source_url": "https://www.gov.pl/web/udsc-en/stamp-duties",
+        "source_organization": "Office for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["fees", "costs", "stamp duty", "payment"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "financial-001",
+      "title": "Financial Requirements - Income and Proof of Funds 2025",
+      "content": "Financial requirements for residence permits (updated January 1, 2025): MINIMUM SUBSISTENCE: Single person household: PLN 1,010/month. Family: PLN 823/month per person. WORK-BASED PERMITS: Must meet/exceed minimum gross salary: PLN 4,666/month (2025). PERMANENT RESIDENCE: Stable lawful income at least equal to minimum wage: PLN 4,666 gross/month (2025). EU BLUE CARD: 150% of average Polish salary = PLN 12,272.60 gross/month (2025). BUSINESS ACTIVITY: Single applicant: PLN 776/month minimum. Each family member: PLN 600/month. Recent change: Previous income thresholds for established businesses removed, making permit more accessible. STUDENT PERMIT: PLN 15,150 for 15-month period (increased from PLN 11,640 in 2024). ACCEPTABLE PROOF DOCUMENTS: (1) Bank certificate with credit card limit info (issued within 1 month); (2) Certificate of payment means in Polish bank (within 1 month); (3) Scholarship grant confirmation; (4) Certificate of employment and salary (within 1 month); (5) PIT tax returns (for long-term applications); (6) Business revenue documentation. All financial documents must be recent (typically within 1 month of application) unless specified otherwise.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "financial_requirements",
+        "source_url": "https://migrant.poznan.uw.gov.pl/en/slownik-pojec/sufficient-means-subsistence-polandsufficient-financial",
+        "source_organization": "Department for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["financial requirements", "income", "2025 amounts", "proof"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "health-001",
+      "title": "Health Insurance Requirements for Residence Permits",
+      "content": "Health insurance is compulsory for all residence permit applications in Poland. Types of acceptable insurance: PUBLIC INSURANCE (NFZ): (1) Narodowy Fundusz Zdrowia - Polish public health insurance; (2) Automatic for employed persons (employer enrolls); (3) Voluntary insurance: PLN 786.28/month (2025); students: ~PLN 55.80/month; (4) Must provide original insurance agreement + current confirmation of payment. PRIVATE INSURANCE: Must meet Polish law requirements: (1) Minimum coverage: EUR 30,000; (2) Must cover emergency care; (3) Valid in Poland; (4) Excludes accident-only insurance. EU/EEA INSURANCE: European Health Insurance Card (EHIC) accepted for EU/EEA nationals. Policy must be valid on day decision on residence permit is issued. DOCUMENTATION REQUIRED: (1) For NFZ: Original insurance agreement + payment confirmation for most recent month (must be paid by 15th of next month); (2) For private: Policy document showing coverage amount, validity dates, Poland coverage. EXEMPTIONS: Spouses/children of Polish citizens don't need to show insurance when applying for family reunification permit. Coverage verification: Insurance status checked via PESEL or passport at medical appointments - no physical NFZ card issued.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "health_insurance",
+        "source_url": "https://www.prorelo.com/2025/01/28/prorelo-explains-health-insurance-in-poland/",
+        "source_organization": "Multiple sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["health insurance", "NFZ", "medical coverage", "requirements"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "health-002",
+      "title": "Accessing Healthcare in Poland with Residence Permit",
+      "content": "How to access healthcare system in Poland as foreign resident: REGISTRATION WITH NFZ: (1) Obtain PESEL number (Polish national ID); (2) Provide proof of employment or insurance coverage; (3) Visit regional NFZ office with passport, visa/residence permit, completed application; (4) Bring NFZ contract to local ZUS (Social Insurance Office) to finalize payment. DOCTOR REGISTRATION: Must register at NFZ clinic closest to your residence before first visit. Bring: (1) Proof of identity (passport or ID); (2) Proof of health insurance. NO PHYSICAL CARD: There is no traditional 'NFZ card' - eligibility verified electronically via PESEL or passport at appointments. ACCESSING SERVICES: Once enrolled, can use medical services at all points in Poland with NFZ agreement. Bring to appointments: Copy of insurance agreement + payment confirmation for most recent month. EMPLOYED PERSONS: Non-EU citizens with employment automatically enrolled in NFZ by employer - no separate registration needed. COVERAGE: NFZ covers: General practitioners, specialist care, hospital care, emergency services, some medications (co-pay). Does not cover: Dental (mostly), cosmetic procedures, some specialized treatments. PRIVATE ALTERNATIVE: Can use private insurance or pay out-of-pocket for faster access to specialists, better facilities.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "healthcare_access",
+        "source_url": "https://englishwizards.org/guides/guideline-to-healthcare-in-poland/",
+        "source_organization": "Multiple sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["healthcare access", "NFZ registration", "doctor", "medical services"],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "registration-001",
+      "title": "Meldunek - Address Registration Requirements and Procedures",
+      "content": "Meldunek is official registration of residence address in Poland, required for both Polish citizens and foreigners. DEADLINES: EU/EEA/Swiss citizens: 30 days from arrival if stay exceeds 3 months. Non-EU citizens: 4 days to register. REQUIRED DOCUMENTS: (1) Filled registration form; (2) Document confirming right to premises (rental agreement, ownership); (3) Landlord's signature (typically); (4) Valid ID/passport. WHERE TO REGISTER: Urząd Miasta (City Office) or Urząd Gminy (Municipal Office) at your place of residence. ONLINE OPTION (2025): Can complete meldunek online via gov.pl portal using Profil Zaufany (Trusted Profile) - no need to visit office in person. IMPORTANCE: Registration allows you to: (1) Legally use the address; (2) Obtain PESEL number; (3) Register with National Health Fund (NFZ); (4) Access other government services; (5) Required for residence permit applications. CONSEQUENCES: Failure to register may result in fine. NOTE: Registration does NOT grant ownership rights - it's purely administrative record of where you live. Can be temporary (pobyt czasowy) or permanent (pobyt stały) registration. Registration certificate (zaświadczenie o zameldowaniu) is official proof of registered address.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "registration",
+        "source_url": "https://progressholding.pl/en/meldunek-in-poland-2025-registration-guide/",
+        "source_organization": "Multiple sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["meldunek", "address registration", "registration", "4 days"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "registration-002",
+      "title": "PESEL Number - How to Obtain for Foreigners",
+      "content": "PESEL is Polish national identification number required for many administrative procedures. WHO NEEDS PESEL: (1) Foreigners staying in Poland for more than 3 months; (2) Required for residence permit processes; (3) Needed for NFZ healthcare registration; (4) Required for employment; (5) Necessary for banking, contracts, government services. HOW TO OBTAIN: Typically assigned automatically when: (1) Applying for residence permit at voivodeship office; (2) During address registration (meldunek) at city/municipal office; (3) When submitting work permit application. REQUIREMENTS: (1) Valid residence basis (visa or pending/approved residence permit); (2) Registered address in Poland (meldunek); (3) Valid passport/travel document. WHERE: Application usually made at: (1) Voivodeship office (during residence permit application); (2) City/Municipal office (Urząd Miasta/Gminy) during address registration. PROCESSING: PESEL assigned quickly, often same day or within few days. NUMBER FORMAT: 11 digits encoding birth date, sex, and verification digit. IMPORTANCE: PESEL opens access to: Healthcare system (NFZ), Employment, Banking services, Contracts (phone, utilities), Government digital services (including Profil Zaufany), Various administrative procedures. Keep PESEL number secure - it's sensitive personal identifier used throughout Polish administrative system.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "registration",
+        "source_url": "https://progressholding.pl/en/meldunek-in-poland-2025-registration-guide/",
+        "source_organization": "Multiple sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["PESEL", "identification number", "how to get", "foreigners"],
+        "confidence_score": 0.96
+      }
+    },
+    {
+      "id": "digital-001",
+      "title": "MOS Platform - Electronic Application System (June 2025)",
+      "content": "The Case Handling Module (MOS) at mos.cudzoziemcy.gov.pl is Poland's electronic system for residence permit applications. MANDATORY FROM JUNE 1, 2025: All residence permit applications must be submitted via MOS platform. Paper applications, postal submissions, and in-person forms NO LONGER ACCEPTED. AVAILABLE APPLICATION TYPES: (1) Temporary residence permits (all types); (2) Permanent residence permits; (3) EU long-term resident permits. SIGNATURE OPTIONS: Applications can be signed using: (1) Qualified electronic signature; (2) Personal signature; (3) Trusted Profile signature (Profil Zaufany). PLATFORM FEATURES: (1) Intuitive wizards for form completion; (2) Dropdown menus and contextual help; (3) Checklists to avoid errors; (4) FAQs and instructional videos; (5) Application status tracking (from 2025); (6) Available in 7 languages: Polish, English, Ukrainian, Russian, French, Vietnamese, Arabic. ASSISTANCE: Voivodeship offices required to provide assistance for those without access to necessary tools/devices. IMPORTANT: If you already submitted application and are waiting for decision, do NOT submit new application via MOS. Representatives/proxies role in electronic process currently unclear - check current regulations.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "digital_systems",
+        "source_url": "https://www.gov.pl/web/udsc-en/portal-moscudzoziemcygovpl--obtain-information-prepare-an-application-or-a-letter-avoid-mistakes",
+        "source_organization": "Office for Foreigners",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["MOS platform", "electronic application", "June 2025", "digital"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "digital-002",
+      "title": "Profil Zaufany (Trusted Profile) - How to Register and Use",
+      "content": "Profil Zaufany is free digital identity verification tool allowing online signatures and government transactions. WHAT IT ALLOWS: (1) Sign documents online with legal validity equal to physical signature; (2) Access government services without visiting offices; (3) Submit applications electronically; (4) Required for MOS platform residence applications (one of three signature options). REQUIREMENTS: (1) PESEL number (mandatory - registration impossible without it); (2) Valid identity document (passport or residence card); (3) Polish phone number (for SMS verification codes); (4) Email address. THREE REGISTRATION METHODS: METHOD 1 - Online Banking (easiest if you have Polish bank account): Via participating banks: Alior, Pekao, BOŚ, Millenium, Getin, Envelo, Crédit Agricole, BNP Paribas, ING, PKO, Santander, mBank, Inteligo. Click e-urząd > Załóż profil > Załóż nowy profil zaufany. Note: Not all banks allow foreigners to create Trusted Profile. METHOD 2 - In Person at Verification Point: (1) Register at pz.gov.pl; (2) Enter login, password, details; (3) Visit verification point within 14 days with ID proof. Find points at: https://pz.gov.pl/pz/confirmationPointAddressesList. METHOD 3 - Qualified Electronic Signature (if you already have one). VALIDITY: 3 years, renewable before expiration. Official website: pz.gov.pl. Important: One person can have only ONE Profil Zaufany.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "digital_systems",
+        "source_url": "https://progressholding.pl/en/trusted-profile-poland-2025-complete-setup-guide/",
+        "source_organization": "Multiple sources",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["Profil Zaufany", "Trusted Profile", "digital signature", "registration"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "citizenship-001",
+      "title": "Polish Citizenship - Naturalization Requirements 2025",
+      "content": "How to become Polish citizen through naturalization (recognition): STANDARD PATHWAY: Must have continuously resided in Poland for at least 3 years based on permanent residence permit, EU long-term resident permit, or right of permanent residence, PLUS: (1) Stable and regular income; (2) Legal title to residential premises; (3) Polish language at B1 level (certificate required); (4) Clean criminal record; (5) Loyalty declaration (do NOT need to renounce previous citizenship). SHORTER PATHWAYS: (1) Married to Polish citizen: 3 years marriage + 2 years residence on temporary permit; (2) EU Blue Card holders: Eligible after 3 years (reduced from 5); (3) Pole's Card holders: 1 year with permanent residence; (4) Stateless persons: 2 years residence; (5) Refugees: 4 years residence (extended from 2 in 2025); (6) 10 years legal residence regardless of permit type. FINANCIAL REQUIREMENT 2025: Minimum PLN 4,242 net per person. Family of 3: PLN 12,726 combined. COSTS: Stamp duty PLN 219 (from July 1, 2025: PLN 1,000). PROCESSING: Up to 2 months for recognition cases (though typically takes over 1 year for President's decision on grants). DUAL CITIZENSHIP: Poland allows dual citizenship - doesn't revoke Polish citizenship when obtaining another passport. FUTURE CHANGES: Proposed reforms may extend minimum residence from 3 to 8-10 years (planned for 2026+).",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "citizenship",
+        "source_url": "https://www.gov.pl/web/mswia-en/apply-to-be-recognised-as-a-polish-citizen",
+        "source_organization": "Ministry of Interior and Administration",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["citizenship", "naturalization", "Polish citizen", "2025 requirements"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "border-001",
+      "title": "Poland Border Entry Requirements - Documents and Procedures",
+      "content": "Entry requirements for crossing Polish (Schengen) border: TRAVEL DOCUMENTS: Passports must have expiry date at least 3 months AFTER planned departure from Schengen area. Will be denied entry with invalid travel document or passport reported lost/stolen. EU/EEA/Norway/Iceland/Liechtenstein/Switzerland citizens: Valid travel document OR valid identity document sufficient. VISA REQUIREMENTS: Can travel without visa to Schengen area (including Poland) for up to 90 days in any 180-day period if from visa-exempt country. Must have valid Polish or Schengen visa if from visa-required country (unless under visa-exempt traffic). FINANCIAL PROOF: Must demonstrate sufficient financial resources: PLN 300 if stay ≤4 days, OR PLN 75 per day if stay >4 days. TRAVEL INSURANCE: Valid travel medical insurance for at least EUR 30,000 from qualifying company. PROOF OF PURPOSE: Must justify purpose and conditions of stay. Return travel proof. NEW: ENTRY/EXIT SYSTEM (EES) - FROM OCTOBER 12, 2025: When traveling to Schengen area for short stays, must register biometric details (fingerprints and photo). UPCOMING: ETIAS mandatory late 2026 for visa-exempt travelers. REFUSAL OF ENTRY if: Counterfeit/forged documents, exceeded 90-day stay allowance, insufficient funds, no required insurance, cannot confirm purpose.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "border_control",
+        "source_url": "https://www.gov.pl/web/mswia-en/entry-and-residence-conditions-for-foreign-nationals-in-poland",
+        "source_organization": "Ministry of Interior and Administration",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["border control", "entry requirements", "EES 2025", "Schengen"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "common-q-001",
+      "title": "Common Question: I received my residence card, what's next?",
+      "content": "After receiving residence card (karta pobytu), complete these important steps: IMMEDIATE ACTIONS: (1) Verify all information on card is correct (name, dates, permit type, work authorization if applicable); (2) Report any errors immediately to issuing office; (3) Keep card with you at all times - confirms identity and legal status; (4) Make copy for records. ESSENTIAL REGISTRATIONS (if not done already): (1) Address registration (meldunek) - required within 4 days (non-EU) or 30 days (EU citizens); (2) Obtain PESEL number if don't have - needed for employment, healthcare, banking; (3) Register with NFZ (National Health Fund) for healthcare access if employed or want voluntary insurance; (4) Open Polish bank account if needed - easier with residence card + PESEL. EMPLOYMENT: If card includes work authorization, can start/continue work according to conditions on card. Inform employer of new card details. DOCUMENT VALIDITY: Check card expiration date - typically 3 years for temporary, 10 years for permanent. Set reminder to renew 45-60 days before expiration. TRAVEL: With valid residence card, can: Travel within Poland freely, Exit and re-enter Poland during card validity, Stay in other Schengen countries up to 90 days per 180 days (if card allows). IMPORTANT: Residence card does NOT equal unlimited Schengen mobility - still subject to 90/180 rule for other Schengen states unless have EU long-term resident permit.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "common_questions",
+        "source_url": "Multiple sources",
+        "source_organization": "Compiled information",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["after receiving card", "next steps", "what to do", "received permit"],
+        "confidence_score": 0.97
+      }
+    },
+    {
+      "id": "common-q-002",
+      "title": "Common Question: My permit is expiring, what should I do?",
+      "content": "If residence permit approaching expiration and you want to continue living in Poland: TIMING CRITICAL: Apply for renewal NO LATER than last day of legal stay. Recommendation: Submit application 45-60 days before expiration. DO NOT wait until last day - complications can arise. APPLICATION PROCESS: (1) Prepare all required documents (updated versions: insurance, accommodation proof, financial statements, etc.); (2) FROM JUNE 2025: Submit via MOS electronic platform only; (3) BEFORE JUNE 2025: Submit in person at voivodeship office OR via registered post; (4) Provide fingerprints (in person); (5) Pay stamp duty (PLN 340-640 depending on permit type). WHAT HAPPENS AFTER APPLICATION: If submitted during legal stay with complete application: (1) Voivode stamps passport; (2) Your stay becomes legal from application day until final decision; (3) Can remain in Poland throughout processing period. WORK AUTHORIZATION DURING PROCESSING: Can continue working IF you had valid work authorization when you applied. If no work authorization when applied, cannot work until decision. CRITICAL WARNING: If permit expires BEFORE you apply, you're in Poland illegally. Face: Fines, Deportation order, Ban on re-entry, Criminal record for illegal stay. Always apply BEFORE expiration. ASSISTANCE: Consider using immigration lawyer if situation complicated or first renewal.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "common_questions",
+        "source_url": "Multiple sources",
+        "source_organization": "Compiled information",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["expiring permit", "renewal", "extension", "about to expire"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "common-q-003",
+      "title": "Common Question: Can I change employers with my residence permit?",
+      "content": "Whether you can change employers depends on your permit type and 2025 changes: FROM JUNE 1, 2025 - MAJOR SIMPLIFICATION: Residence permit decisions now specify only validity period and salary amount (not specific employer/position). Easier to change jobs without amending permit. HOWEVER - STILL MUST NOTIFY: Must inform voivode within 15 working days about: Job loss, Employer change, Any situation where no longer meeting permit conditions. Employer must notify immigration office within 15 working days of employment changes. BY PERMIT TYPE: EU BLUE CARD HOLDERS (after 2 years in Poland): Can change employer, position, salary without changing permit, BUT must continue in highly qualified work. STANDARD SINGLE PERMIT HOLDERS: If have limited labor market access, cannot freely change employer without applying for new permit. If have full labor market access (after 5+ years), can work for any employer under any conditions. PERMANENT/EU LONG-TERM RESIDENTS: Full labor market access - can work for any employer without restrictions. JOB LOSS PROTECTION: If lose job, residence permit remains valid for 30 days from job loss. EU Blue Card holders: 3 months to find new job if resided <2 years; 6 months if resided >2 years. RECOMMENDATION: Before changing jobs, consult with voivodeship office or immigration lawyer to understand if need new permit or just notification.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "common_questions",
+        "source_url": "Multiple sources",
+        "source_organization": "Compiled information",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["change employer", "switch jobs", "new employer", "job change"],
+        "confidence_score": 0.98
+      }
+    },
+    {
+      "id": "common-q-004",
+      "title": "Common Question: How do I check my application status?",
+      "content": "Checking residence permit application status in Poland: NO CENTRALIZED ONLINE TRACKING SYSTEM: Unlike some countries, Poland doesn't have unified online status portal accessible to all applicants (as of early 2025). FROM 2025 - MOS PLATFORM: Applications submitted via MOS platform (mandatory from June 2025) allow status tracking through same portal. This is NEW feature for 2025 applications. CURRENT METHODS: (1) Contact voivodeship office directly by phone - number on their website; (2) Visit voivodeship office in person (may need appointment); (3) Send email to office handling your case; (4) Check for correspondence at registered address - offices send letters about additional documents needed or decision ready. WHAT YOU'LL NEED: Your application number/reference, Full name as on application, Date of birth, Passport number. TYPICAL TIMELINE: No specific guaranteed processing times. General ranges: Temporary permits: 1-6 months, Permanent permits: 3-12 months, Blue Card: 1-3 months with priority. DURING PROCESSING: Your stay is legal if: Applied before expiration, Application complete/corrected defects within deadline, Have stamp in passport confirming application. PATIENCE REQUIRED: Processing times vary by office workload and case complexity. Frequent checking won't speed up process. Wait at least 2-3 months before first status inquiry unless urgent circumstances. If processing exceeds reasonable time (6+ months for simple cases), can file complaint or seek legal assistance.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "common_questions",
+        "source_url": "Multiple sources",
+        "source_organization": "Compiled information",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": true,
+        "keywords": ["check status", "application status", "tracking", "how to check"],
+        "confidence_score": 0.96
+      }
+    },
+    {
+      "id": "common-q-005",
+      "title": "Common Question: What if my application is rejected?",
+      "content": "If residence permit application is rejected, you have legal rights and options: IMMEDIATE DEADLINE: 14 days from receiving rejection notification to file appeal. This is STRICT deadline - missing it means accepting rejection. APPEAL PROCESS: (1) Submit appeal to voivode who issued rejection (they forward to Head of Office for Foreigners); (2) Include: Arguments why refusal unjustified, Updated documents proving you meet all requirements (valid insurance, lease, bank statements, etc.), Must be signed; (3) Appeal submission SUSPENDS execution of decision - your legal stay continues during appeal; (4) Head of Office for Foreigners reviews and can: Grant permit (overrule rejection), Uphold rejection, Send back for reprocessing if procedural errors. AFTER APPEAL: If appeal rejected, can file complaint with administrative court in Warsaw with motion to stay execution of deportation. LEGAL ASSISTANCE STRONGLY RECOMMENDED: Immigration lawyer can: Identify grounds for appeal, Prepare strong legal arguments, Navigate administrative court if needed, Significantly improve success chances. IF NO APPEAL: Have 30 days from final rejection to leave Poland unless have other legal basis for stay (e.g., different permit type, appeal in process). COMMON REJECTION REASONS: Incomplete/incorrect documents, Insufficient financial means, Invalid/expired insurance, False information, Threat to public order/security. Understanding reason helps prepare better appeal. COSTS: Appeal itself has no fee, but may need legal representation costs and new document fees.",
+      "metadata": {
+        "category": "immigration",
+        "subcategory": "common_questions",
+        "source_url": "Multiple sources",
+        "source_organization": "Compiled information",
+        "last_verified": "2025-11-11",
+        "is_post_july_2025": false,
+        "keywords": ["rejection", "refused", "denied", "appeal"],
+        "confidence_score": 0.98
+      }
+    }
+  ]
+}

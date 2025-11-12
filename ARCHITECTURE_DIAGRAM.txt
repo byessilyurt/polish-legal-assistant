@@ -1,0 +1,283 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                    POLISH LEGAL ASSISTANT - SYSTEM ARCHITECTURE                              ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────┐
+│                              FRONTEND TIER (Next.js)                                         │
+│                           http://localhost:3000                                              │
+├──────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                              │
+│  ┌─────────────────────────────────────────────────────────────────────────────────┐       │
+│  │  WelcomeScreen Component                                                         │       │
+│  │  • Display sample questions                                                      │       │
+│  │  • Category filter (Immigration, Employment, etc.)                              │       │
+│  └─────────────────────────────────────────────────────────────────────────────────┘       │
+│                                  ↓                                                           │
+│  ┌─────────────────────────────────────────────────────────────────────────────────┐       │
+│  │  ChatInterface Component                                                         │       │
+│  │  • Text input field                                                              │       │
+│  │  • Message history display                                                       │       │
+│  │  • Real-time response streaming                                                 │       │
+│  │  • Loading indicator with spinner                                               │       │
+│  └─────────────────────────────────────────────────────────────────────────────────┘       │
+│                                  ↓                                                           │
+│  ┌─────────────────────────────────────────────────────────────────────────────────┐       │
+│  │  api-client.ts (axios)                                                           │       │
+│  │  • HTTP POST to /api/v1/chat                                                    │       │
+│  │  • 60-second timeout                                                            │       │
+│  │  • Error handling & status codes                                                │       │
+│  └─────────────────────────────────────────────────────────────────────────────────┘       │
+│                                                                                              │
+└──────────────────────────────────┬───────────────────────────────────────────────────────────┘
+                                   │
+                    HTTP/REST (POST /api/v1/chat)
+                                   │
+                                   ↓
+┌──────────────────────────────────────────────────────────────────────────────────────────────┐
+│                              BACKEND TIER (FastAPI)                                          │
+│                            http://localhost:8000                                             │
+├──────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                              │
+│  ┌────────────────────────────────────────────────────────────────────────────────┐        │
+│  │  FastAPI Server                                                                │        │
+│  │  • CORS middleware (localhost:3000, :5173)                                     │        │
+│  │  • Logging & exception handling                                               │        │
+│  │  • Health checks (/health, /api/v1/chat/health)                              │        │
+│  └────────────────────────────────────────────────────────────────────────────────┘        │
+│                                  ↓                                                           │
+│  ┌────────────────────────────────────────────────────────────────────────────────┐        │
+│  │  RAG SERVICE (rag_service.py)                                                  │        │
+│  │  ┌─────────────────────────────────────────────────────────────────────────┐  │        │
+│  │  │ 1. Check Service Availability                                           │  │        │
+│  │  │    - Pinecone index available?                                          │  │        │
+│  │  │    - OpenAI API key valid?                                              │  │        │
+│  │  │                                                                         │  │        │
+│  │  │ 2. RETRIEVE PHASE (Retrieval Service)                                  │  │        │
+│  │  │    ├─ Generate query embedding (OpenAI text-embedding-3-large)        │  │        │
+│  │  │    ├─ Pinecone vector search (top_k=5, cosine metric)                 │  │        │
+│  │  │    ├─ Filter by category (optional)                                    │  │        │
+│  │  │    ├─ Threshold filtering (min_score=0.7)                             │  │        │
+│  │  │    └─ Rerank by similarity score                                       │  │        │
+│  │  │                                                                         │  │        │
+│  │  │ 3. GENERATION PHASE (LLM Service)                                      │  │        │
+│  │  │    ├─ Format context from retrieved docs                              │  │        │
+│  │  │    ├─ System prompt (CRITICAL RULES: use only context, cite sources) │  │        │
+│  │  │    ├─ Call GPT-4o (temp=0.3, max_tokens=1500)                        │  │        │
+│  │  │    └─ Extract response & metadata                                      │  │        │
+│  │  │                                                                         │  │        │
+│  │  │ 4. CONFIDENCE & CITATION                                               │  │        │
+│  │  │    ├─ Calculate confidence score (0.0-1.0)                            │  │        │
+│  │  │    ├─ Format source citations                                          │  │        │
+│  │  │    └─ Detect category                                                  │  │        │
+│  │  │                                                                         │  │        │
+│  │  │ 5. RETURN ChatResponse                                                 │  │        │
+│  │  │    ├─ answer (with inline citations)                                   │  │        │
+│  │  │    ├─ sources (SourceCitation objects)                                 │  │        │
+│  │  │    ├─ confidence (float 0-1)                                           │  │        │
+│  │  │    ├─ category (detected topic)                                        │  │        │
+│  │  │    └─ debug_info (optional, if requested)                             │  │        │
+│  │  └─────────────────────────────────────────────────────────────────────────┘  │        │
+│  └────────────────────────────────────────────────────────────────────────────────┘        │
+│         ↑                                          ↑                                        │
+│         │                                          │                                        │
+│  ┌──────┴──────────────┐              ┌───────────┴──────────────┐                        │
+│  │                     │              │                          │                        │
+└──┼─────────────────────┼──────────────┼──────────────────────────┼────────────────────────┘
+   │                     │              │                          │
+   ↓                     ↓              ↓                          ↓
+┌──────────────────┐  ┌────────────────────┐    ┌──────────────────────────────────────┐
+│   PINECONE       │  │   OPENAI API       │    │   KNOWLEDGE BASE (Data)              │
+│   (Vector DB)    │  │   (LLM Provider)   │    │   /data/processed/                   │
+│                  │  │                    │    │                                      │
+│ Index Name:      │  │ Models:            │    │ Files:                               │
+│ polish-legal-kb  │  │ • gpt-4o           │    │ • immigration_knowledge.json (95)    │
+│                  │  │ • text-embedding-  │    │ • employment_knowledge.json (30)    │
+│ Dimension: 1536  │  │   3-large          │    │ • healthcare_banking_(65)           │
+│ Metric: cosine   │  │                    │    │ • police_traffic_(60+)              │
+│                  │  │ Key services:      │    │                                      │
+│ Vector Count:    │  │ • Embeddings       │    │ Total: 250+ documents               │
+│ ~91-250+ (TBD)   │  │ • Chat completion  │    │ Languages: English                   │
+│                  │  │ • Retry logic      │    │ Sources: Official Polish gov        │
+└──────────────────┘  └────────────────────┘    │ Updated: November 2025              │
+                                                 └──────────────────────────────────────┘
+
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                          DATA FLOW: QUERY TO RESPONSE                                        ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+USER QUERY
+  │
+  ├─ "How do I get a residence permit?"
+  ├─ category_filter: "immigration" (optional)
+  ├─ top_k: 5 (retrieval count)
+  └─ include_debug: true (optional)
+       │
+       ↓ HTTP POST to /api/v1/chat
+       │
+   [BACKEND]
+       │
+       ├─ Validate request (Pydantic schemas)
+       ├─ Initialize RAG Service
+       │
+       ├─ RETRIEVAL PHASE
+       │  ├─ Generate embedding for query
+       │  │  └─ OpenAI text-embedding-3-large (1536 dims)
+       │  │
+       │  ├─ Search Pinecone
+       │  │  ├─ Vector: [0.234, -0.156, ..., 0.891] (1536 values)
+       │  │  ├─ Filters: category="immigration" (if provided)
+       │  │  ├─ Similarity metric: cosine
+       │  │  └─ Top K: 5 results
+       │  │
+       │  ├─ Filter by threshold
+       │  │  └─ Min score: 0.7 (similarity threshold)
+       │  │
+       │  └─ Results:
+       │     [
+       │       { id: "doc_1", score: 0.92, content: "...", org: "UDSC" },
+       │       { id: "doc_2", score: 0.88, content: "...", org: "Mswia" },
+       │       { id: "doc_3", score: 0.85, content: "...", org: "Gov.pl" },
+       │       { id: "doc_4", score: 0.81, content: "...", org: "UDSC" },
+       │       { id: "doc_5", score: 0.78, content: "...", org: "MSWIA" }
+       │     ]
+       │
+       ├─ GENERATION PHASE
+       │  ├─ Format context (from 5 documents)
+       │  ├─ Build system prompt with context
+       │  │  └─ RULES: "ONLY use context", "Always cite [1], [2]", etc.
+       │  │
+       │  ├─ Call OpenAI GPT-4o
+       │  │  ├─ Model: gpt-4o
+       │  │  ├─ Temperature: 0.3 (low, factual)
+       │  │  ├─ Max tokens: 1500
+       │  │  └─ Retry: 3 attempts with exponential backoff
+       │  │
+       │  └─ Response:
+       │     "To obtain a residence permit in Poland, you must [1]:
+       │      1. Prepare documents (passport, visa justification) [2]
+       │      2. Submit application at voivodeship office [1]
+       │      3. Wait 60 days for decision [3]
+       │      Processing cost: 200 PLN [2]"
+       │
+       ├─ FORMATTING PHASE
+       │  ├─ Extract citations from response
+       │  ├─ Format SourceCitation objects
+       │  │  └─ [{"id": "1", "title": "...", "org": "UDSC", "score": 0.92}]
+       │  │
+       │  ├─ Calculate confidence score
+       │  │  = (avg_similarity * 0.6) +
+       │  │    (num_docs_factor * 0.2) +
+       │  │    (completeness_factor * 0.2)
+       │  │  = (0.848 * 0.6) + (1.0 * 0.2) + (1.0 * 0.2) = 0.909
+       │  │
+       │  └─ Detect category: "immigration"
+       │
+       └─ RETURN ChatResponse JSON
+          {
+            "answer": "To obtain...[1]...[2]...[3]",
+            "sources": [
+              {"id": "1", "title": "Residence Permits", "org": "UDSC", 
+               "score": 0.92, "category": "immigration"},
+              ...
+            ],
+            "confidence": 0.909,
+            "category": "immigration",
+            "timestamp": "2025-11-12T10:30:00Z"
+          }
+          │
+          ├─ HTTP 200 OK
+          └─ Response body to frontend
+               │
+               ↓ [FRONTEND]
+               │
+               ├─ Parse JSON response
+               ├─ Display answer with inline citations [1], [2], [3]
+               ├─ Show expandable source list
+               │  └─ Click [1] → Show "Residence Permits - UDSC (92% relevant)"
+               ├─ Show confidence score: 90.9%
+               ├─ Show category badge: "Immigration"
+               └─ Ready for next query
+
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                       CONFIGURATION & PARAMETERS REFERENCE                                   ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+┌─ RAG CONFIGURATION (backend/app/config.py) ─────────────────────────────────────────────────┐
+│                                                                                              │
+│  rag_top_k: 5                          # Documents to retrieve (1-20)                      │
+│  rag_similarity_threshold: 0.7         # Min similarity score (0.0-1.0)                    │
+│  rag_max_context_length: 6000          # Max context length (characters)                   │
+│                                                                                              │
+└──────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌─ OPENAI CONFIGURATION ──────────────────────────────────────────────────────────────────────┐
+│                                                                                              │
+│  openai_model: "gpt-4o"                                                                    │
+│  openai_embedding_model: "text-embedding-3-large"                                          │
+│  openai_temperature: 0.3               # Low for factual responses (0.0-2.0)              │
+│  openai_max_tokens: 1500               # Max response length                               │
+│                                                                                              │
+└──────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌─ PINECONE CONFIGURATION ────────────────────────────────────────────────────────────────────┐
+│                                                                                              │
+│  pinecone_api_key: ${PINECONE_API_KEY}                                                     │
+│  pinecone_environment: "us-east-1"                                                         │
+│  pinecone_index_name: "polish-legal-kb"                                                    │
+│  dimension: 1536                       # Vector dimension (matches embedding model)        │
+│  metric: "cosine"                      # Distance metric                                   │
+│                                                                                              │
+└──────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌─ CHUNKING CONFIGURATION ────────────────────────────────────────────────────────────────────┐
+│                                                                                              │
+│  chunk_size: 800                       # Tokens per chunk                                  │
+│  chunk_overlap: 100                    # Overlap between chunks (for context)              │
+│  strategy: "hybrid"                    # structural + semantic                             │
+│                                                                                              │
+└──────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                          KEY FILE LOCATIONS & PURPOSE                                        ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+BACKEND CORE
+  backend/app/main.py                     Entry point, CORS, health checks
+  backend/app/config.py                   Configuration & settings
+  backend/app/api/chat.py                 Chat endpoint route
+  backend/app/services/rag_service.py     RAG orchestration (main logic)
+  backend/app/services/retrieval_service.py  Pinecone search
+  backend/app/services/llm_service.py     OpenAI integration
+  backend/app/models/schemas.py           Request/response validation
+
+FRONTEND CORE
+  frontend/app/page.tsx                   Main page layout
+  frontend/app/layout.tsx                 Root layout
+  frontend/components/ChatInterface.tsx   Chat UI component
+  frontend/components/MessageBubble.tsx   Message rendering
+  frontend/components/SourceCitations.tsx Citation display
+  frontend/lib/api-client.ts              API client (axios)
+  frontend/types/legal-types.ts           TypeScript types
+
+KNOWLEDGE PIPELINE
+  knowledge_pipeline/processors/chunker.py           Document chunking
+  knowledge_pipeline/processors/embedder.py          Embedding generation
+  knowledge_pipeline/ingest/pinecone_ingestion.py   Vector DB upload
+
+DATA & SCRIPTS
+  data/processed/immigration_knowledge.json      95 docs
+  data/processed/employment_knowledge.json       30 docs
+  data/processed/healthcare_banking_knowledge.json  65 docs
+  data/processed/police_traffic_knowledge.json   60+ docs
+  scripts/init_pinecone.py                Create Pinecone index
+  scripts/ingest_all_knowledge.py         Ingest documents
+
+CONFIGURATION
+  .env                                    API keys and settings
+  docker-compose.yml                      Docker setup
+  backend/Dockerfile                      Backend container
+  frontend/Dockerfile                     Frontend container
+
