@@ -260,6 +260,14 @@ async def debug_pinecone() -> dict:
             "index_initialized": retrieval_service._index_initialized,
         }
 
+        # Try to initialize the index directly
+        try:
+            retrieval_service._ensure_index_connection()
+            debug_info["connection_test"]["index_connection"] = "success"
+        except Exception as e:
+            debug_info["connection_test"]["index_connection_error"] = str(e)
+            debug_info["connection_test"]["index_connection_traceback"] = traceback.format_exc()
+
         # Test availability
         try:
             available = await retrieval_service.check_availability()
