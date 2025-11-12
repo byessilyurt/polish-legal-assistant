@@ -298,3 +298,59 @@ async def debug_pinecone() -> dict:
         status_code=status.HTTP_200_OK,
         content=debug_info
     )
+
+
+@router.get(
+    "/debug/retrieval",
+    summary="Debug document retrieval",
+    description="Test document retrieval with a sample query",
+)
+async def debug_retrieval() -> dict:
+    """
+    Debug endpoint to test document retrieval.
+
+    Returns:
+        Detailed debug information about retrieval
+    """
+    import traceback
+    from app.services.retrieval_service import get_retrieval_service
+    from app.config import settings
+
+    debug_info = {
+        "config": {
+            "rag_top_k": settings.rag_top_k,
+            "rag_similarity_threshold": settings.rag_similarity_threshold,
+            "rag_tier1_threshold": settings.rag_tier1_threshold,
+            "rag_tier1_top_k": settings.rag_tier1_top_k,
+            "rag_tier2_threshold": settings.rag_tier2_threshold,
+            "rag_tier2_top_k": settings.rag_tier2_top_k,
+        },
+        "test_queries": {}
+    }
+
+    retrieval_service = get_retrieval_service()
+
+    # Test a few simple queries
+    test_queries = ["NFZ", "rejestracja", "polska"]
+
+    for query in test_queries:
+        try:
+            docs = await retrieval_service.retrieve_documents(
+                query=query,
+                top_k=10,
+                min_score=0.3  # Very low threshold for testing
+            )
+            debug_info["test_queries"][query] = {
+                "documents_found": len(docs),
+                "top_scores": [d.get("score", 0) for d in docs[:3]]
+            }
+        except Exception as e:
+            debug_info["test_queries"][query] = {
+                "error": str(e),
+                "traceback": traceback.format_exc()
+            }
+
+    return JSONResponse(
+        status_code=status.HTTP_200_OK,
+        content=debug_info
+    )
