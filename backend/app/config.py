@@ -33,7 +33,7 @@ class Settings(BaseSettings):
         default=[
             "http://localhost:3000",
             "http://localhost:5173",
-            "https://frontend-e53b9qm3i-byessilyurts-projects.vercel.app",
+            "https://frontend-9e5nnxcas-byessilyurts-projects.vercel.app",
             "https://*.vercel.app"  # Allow all Vercel preview deployments
         ],
         description="Allowed origins for CORS"
