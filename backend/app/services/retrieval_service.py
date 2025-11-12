@@ -70,11 +70,12 @@ class RetrievalService:
             try:
                 # Directly connect to the index without listing all indexes
                 # This is faster and works better in serverless environments
+                logger.info(f"Attempting to connect to Pinecone index: {settings.pinecone_index_name}")
                 self.index = self.pinecone_client.Index(settings.pinecone_index_name)
                 self._index_initialized = True
-                logger.info(f"Connected to Pinecone index: {settings.pinecone_index_name}")
+                logger.info(f"Successfully connected to Pinecone index: {settings.pinecone_index_name}")
             except Exception as e:
-                logger.error(f"Failed to connect to Pinecone index: {str(e)}")
+                logger.error(f"Failed to connect to Pinecone index '{settings.pinecone_index_name}': {str(e)}", exc_info=True)
                 raise
 
     @retry(
