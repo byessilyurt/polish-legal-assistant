@@ -141,7 +141,9 @@ class Settings(BaseSettings):
     @property
     def pinecone_configured(self) -> bool:
         """Check if Pinecone is configured."""
-        return bool(self.pinecone_api_key and self.pinecone_environment)
+        # For serverless indexes, only API key is required
+        # pinecone_environment is optional (used for pod-based indexes)
+        return bool(self.pinecone_api_key)
 
 
 @lru_cache
