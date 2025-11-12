@@ -169,24 +169,6 @@ async def global_exception_handler(request, exc):
     )
 
 
-# Log startup message
-@app.on_event("startup")
-async def startup_message():
-    """Log startup message with configuration info."""
-    logger.info("=" * 60)
-    logger.info(f"🚀 {settings.app_name} v{settings.app_version}")
-    logger.info("=" * 60)
-    logger.info(f"Environment: {'DEBUG' if settings.debug else 'PRODUCTION'}")
-    logger.info(f"API Prefix: {settings.api_prefix}")
-    logger.info(f"CORS Origins: {', '.join(settings.cors_origins)}")
-    logger.info(f"OpenAI Model: {settings.openai_model}")
-    logger.info(f"Embedding Model: {settings.openai_embedding_model}")
-    logger.info(f"Pinecone Index: {settings.pinecone_index_name}")
-    logger.info(f"RAG Top-K: {settings.rag_top_k}")
-    logger.info(f"Similarity Threshold: {settings.rag_similarity_threshold}")
-    logger.info("=" * 60)
-
-
 if __name__ == "__main__":
     import uvicorn
 
