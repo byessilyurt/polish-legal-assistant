@@ -221,3 +221,72 @@ async def reset_metrics() -> dict:
                 "message": "Failed to reset metrics",
             }
         )
+
+
+@router.get(
+    "/debug/pinecone",
+    summary="Debug Pinecone connection",
+    description="Test Pinecone connectivity and return detailed debug information",
+)
+async def debug_pinecone() -> dict:
+    """
+    Debug endpoint to test Pinecone connection and report detailed status.
+
+    Returns:
+        Detailed debug information about Pinecone connectivity
+    """
+    import traceback
+    from app.services.retrieval_service import get_retrieval_service
+    from app.config import settings
+
+    debug_info = {
+        "config": {
+            "pinecone_api_key_set": bool(settings.pinecone_api_key),
+            "pinecone_api_key_length": len(settings.pinecone_api_key) if settings.pinecone_api_key else 0,
+            "pinecone_environment": settings.pinecone_environment,
+            "pinecone_index_name": settings.pinecone_index_name,
+            "pinecone_configured": settings.pinecone_configured,
+        },
+        "retrieval_service": {},
+        "connection_test": {}
+    }
+
+    try:
+        # Get retrieval service
+        retrieval_service = get_retrieval_service()
+        debug_info["retrieval_service"] = {
+            "pinecone_client_exists": retrieval_service.pinecone_client is not None,
+            "index_exists": retrieval_service.index is not None,
+            "index_initialized": retrieval_service._index_initialized,
+        }
+
+        # Test availability
+        try:
+            available = await retrieval_service.check_availability()
+            debug_info["connection_test"]["available"] = available
+        except Exception as e:
+            debug_info["connection_test"]["availability_error"] = str(e)
+            debug_info["connection_test"]["availability_traceback"] = traceback.format_exc()
+
+        # Try to get index stats
+        try:
+            if retrieval_service.index:
+                stats = retrieval_service.index.describe_index_stats()
+                debug_info["connection_test"]["index_stats"] = {
+                    "total_vectors": stats.total_vector_count,
+                    "dimension": stats.dimension,
+                }
+            else:
+                debug_info["connection_test"]["index_stats_error"] = "Index is None"
+        except Exception as e:
+            debug_info["connection_test"]["index_stats_error"] = str(e)
+            debug_info["connection_test"]["index_stats_traceback"] = traceback.format_exc()
+
+    except Exception as e:
+        debug_info["error"] = str(e)
+        debug_info["traceback"] = traceback.format_exc()
+
+    return JSONResponse(
+        status_code=status.HTTP_200_OK,
+        content=debug_info
+    )
